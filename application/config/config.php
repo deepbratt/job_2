@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/deep/job/';
+$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/jan_2018/job_2/';
 
 /*
 |--------------------------------------------------------------------------
