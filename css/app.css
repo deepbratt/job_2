@@ -1,0 +1,1941 @@
+
+#newedit  .cal_wrap{ height:30px;}
+.text-right { text-align: right !important; }
+.noellipsis { overflow-wrap: break-word !important; white-space: inherit !important; }
+.mar_left10 { margin-left: 10px; }
+.hovergry .btn-default.disabled.focus, .hovergry .btn-default.disabled:focus, .hovergry .btn-default.disabled:hover, .hovergry .btn-default.focus[disabled], .hovergry .btn-default[disabled]:focus, .hovergry .btn-default[disabled]:hover, .hovergry fieldset[disabled] .btn-default.focus, .hovergry fieldset[disabled] .btn-default:focus, .hovergry fieldset[disabled] .btn-default:hover { background-color: #eee!important }
+.navbar-brand a img { margin-bottom: 2px; }
+.ullilist { list-style: outside none none; margin: 0; padding: 0; }
+body.modal-open { overflow: hidden; }
+body { font-family: 'Roboto', sans-serif !important; font-size: 14px; font-weight: 300; color: #424242; background: #f2f2f2!important; }
+.pagination > li > a, .pagination > li > span{font-weight:400 !important;}
+.bg_disable_grey { background-color: #eee!important; }
+.bg_disable_white { background-color: #FFF!important; }
+.updateprofile_width { width: 50% !important; float: left !important; }
+.mrgntp15 { margin-top: 15px; }
+a { color: #424242; }
+.breadcrumb { font-size: 12px; padding-bottom: 0px; margin-left: 10px; background: transparent!important; }
+.pager li > a, .pager li > span { background-color: #f3f3f3; border-radius: 3px; box-shadow: 0 1px 2px 1px #7e7e7e; display: inline-block; padding: 5px 14px; }
+.pager li { display: inline; margin-left: 10px; }
+/*--Update profile---*/
+
+/*--Update profile---*/
+.addnewcom { color: #5E4FA2 !important; text-decoration: underline; font-weight: 500; }
+.edit_headings:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/downarrow.png) no-repeat 0 0; content: ""; display: inline-block; position: absolute; height: 20px; left: 8px; width: 26px; }
+.edit_headings { position: relative; padding: 10px 10px 10px 30px; font-size: 20px; border-bottom: 1px #ededed solid; font-weight: 400; color: #5E4FA2; font-size: 16px; font-weight: 400; background-color: #e5e4ea; margin-bottom: 10px; }
+.tip::before { height: 20px; left: 0px; width: 20px; position: absolute; top: -3px; bottom: 0px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat 0px -319px; content: ''; }
+.tip { font-size: 11px; color: #333333; margin-top: 5px; position: relative; padding-left: 25px; }
+.marradiolable { margin: 5px 6px; display: inline-block; }
+.marradio { margin-top: 5px; display: inline-block; }
+.sq_frmwrap .expinfo select.form-control { padding: 5px 5px; height: 30px; font-size: 14px; background: #FFF; border: 1px #bfbfbf solid; color: #9d90ae; width: 49%; display: inline-block; }
+.sq_frmwrap .expinfo .popupExp { position: absolute; left: 0; z-index: 10; width: 100%; background: #FFF; padding: 10px; display: none; border-radius: 4px; -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175); box-shadow: 0 6px 12px rgba(0,0,0,.175); top: 105%; }
+#update_prf_no .form-control::-moz-input-placeholder {
+ color: #555;
+}
+#update_prf_no .form-control:-ms-input-placeholder {
+ color: #555;
+}
+#update_prf_no .form-control::-webkit-input-placeholder {
+ color: #555;
+}
+#place_holder .form-control::-moz-input-placeholder {
+ color: #555;
+}
+#place_holder .form-control:-ms-input-placeholder {
+ color: #555;
+}
+#place_holder .form-control::-webkit-input-placeholder {
+ color: #555;
+}
+#update_prf .form-control::-moz-input-placeholder {
+ color: #555;
+}
+#update_prf .form-control:-ms-input-placeholder {
+ color: #555;
+}
+#update_prf .form-control::-webkit-input-placeholder {
+ color: #555;
+}
+
+
+.form-control { border-radius: 2px; font-size: 16px; padding: 8px 12px; height: 38px; box-shadow: none !important; color: #555; }
+
+::-webkit-input-placeholder {
+color: #555;
+}
+::-moz-placeholder {
+color: #555;
+}
+:-ms-input-placeholder {
+color: #555
+}
+:-moz-placeholder {
+color: #555;
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option { color: #555 !important; }
+.form-control:focus { border: 1px #ccc solid; }
+.tagator_element { line-height: 1.42857143; color: #555; background-color: #fff; background-image: none; border: 1px solid #ccc; border-radius: 2px; font-size: 16px; padding: 5px 5px !important; display: block; width: 100% !important; }
+.tagator_element input { outline: 0; border: 0; margin-left: 8px; }
+.tagator_tags { display: inline; }
+.tagator_tag { display: inline-block; background-color: #f6f6f6; border-radius: 2px; color: #a6a5ab; padding: 2px 20px 2px 4px; font-size: 13px; margin: 2px; position: relative; vertical-align: top; border: 1px #e9e9ea solid; }
+.tagator_tag_remove { display: inline-block; font-weight: 400; color: #a6a5ab; margin: 0 0 0 5px; padding: 6px 5px 4px 5px; cursor: pointer; font-size: 11px; line-height: 10px; vertical-align: top; border-radius: 0 2px 2px 0; position: absolute; right: 0; top: 0; bottom: 0; }
+.tagator_options {; margin: 0; padding: 0; border-radius: 0 0 3px 3px; position: absolute; box-sizing: border-box; -moz-box-sizing: border-box; z-index: 101; background-color: #fff; overflow: auto; max-height: 250px; list-style: none; left: -1px; right: -1px; }
+.tagator_option { padding: 5px; cursor: pointer; color: #000; }
+.tagator_option.active { background-color: #5e4fa2; color: #fff; }
+.form-group.no_mbtm { margin-bottom: 0; }
+.save_btn { background: #92a732; color: #fff !important; margin-right: 7px; margin-bottom: 7px; padding: 8px 20px; }
+.save_btn#ad_search { font-size: 20px; border-radius: 0; }
+.cancel_btn { background: #adb3c2; color: #fff !important; padding: 8px 20px; margin-bottom: 7px; }
+.edit_form .row { margin-left: -5px; margin-right: -5px; }
+.edit_form .col { padding: 0px 5px; padding-bottom: 15px; }
+.add_morelnk { color: #7c7c7c; text-decoration: underline; }
+.add_morelnk:hover { color: #5e4fa2; }
+.mrgnbtm { margin-bottom: 10px; }
+.cal_wrap { position: relative; background: #fff; border: 1px #ccc solid; position: relative; border-radius: 2px; }
+.cal_wrap:focus { border: 1px #ccc solid; }
+.cal_wrap .form-control { border: 0 !important; background: none !important; box-shadow: none; position: relative; }
+.cal_wrap:before { width: 24px; height: 24px; content: ''; position: absolute; right: 5px; top: 50%; margin-top: -12px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -9px -262px; }
+.noticewrap { position: relative; }
+.checkbox.custom label, .radio.custom label { padding-left: 25px; line-height: 20px; z-index: 1 }
+.checkbox.custom input[type="checkbox"], .radio.custom input[type="radio"] { opacity: 0; margin-left: 0; }
+.checkbox.custom label::before { content: ''; display: block; position: absolute; width: 19px; height: 19px; left: 0; border: 1px solid #cccccc; border-radius: 3px; background-color: #fff; top: 0; z-index: 0; }
+.checkbox.custom label::after { display: block; position: absolute; width: 19px; height: 19px; left: 0; top: 0; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -128px -263px; }
+.checkbox.custom input[type="checkbox"]:checked + label::after, .checkbox.custom input[type="radio"]:checked + label::after { content: ''; }
+.radio.custom label::before { content: ''; display: block; position: absolute; width: 19px; height: 19px; left: 0; border: 1px solid #cdcdcd; border-radius: 50%; background-color: #fff; top: 0; }
+.radio.custom label::after { display: block; position: absolute; width: 15px; height: 15px; left: 2px; top: 2px; background: #5f328b; border-radius: 50%; }
+.radio.custom input[type="radio"]:checked + label::after { content: ''; }
+.radio.custom input[type="radio"]:checked + label::before { border: 1px solid #5e4fa2; }
+.noticewrap .n_wrap { padding-right: 196px; }
+.noticewrap .checkbox.custom { position: Absolute; right: 6px; top: 0; }
+.padd_top { padding-top: 14px; }
+.mrgn_r { margin-right: 8px; }
+textarea { resize: none; }
+.radio-inline.custom { padding-left: 0; margin-left: 0; margin-right: 12px; }
+.radio-inline.custom label { padding-top: 25px; font-weight: 400; }
+.radio-inline.custom input[type="radio"] { opacity: 0; }
+.radio-inline.custom label::before { content: ''; display: block; position: absolute; width: 19px; height: 19px; left: 0; border: 1px solid #d1d1d1; border-radius: 50%; background-color: #fff; top: 0; }
+.radio-inline.custom label::after { display: block; position: absolute; width: 15px; height: 15px; left: 2px; top: 2px; background: #5e4fa2; border-radius: 50%; }
+.radio-inline.custom input[type="radio"]:checked + label::after { content: ''; }
+.radio-inline.custom input[type="radio"]:checked + label::before { border: 1px #5e4fa2 solid; }
+.control-label { font-size: 15px; font-weight: 400; margin-bottom: 8px; display: block; }
+#disability_opts { border: 1px #e8e8e8 solid; padding: 15px; margin: 10px -16px; background: #efeeee; }
+.checkbox.checkbox-inline { padding-left: 0; margin-top: 10px !important; margin-bottom: 10px; }
+/* Search Result */	
+.nav-tabs.tabs-left > li.active > a, .nav-tabs.tabs-left > li.active > a:focus, .nav-tabs.tabs-left > li.active > a:hover { border-left: 2px solid #fd8d29; box-shadow: -3px 0px 3px 0px #bfbfbf; border-top: 0 !important; background-color: #fafafa }
+.nav-tabs.tabs-left > li { z-index: 1; }
+.nav-tabs.tabs-left > li { width: 100%; }
+.fatfooter .nav-tabs > li > a { font-size: 14px; }
+.fatfooter .tab-left-content { position: absolute; left: -17px; padding: 0; z-index: 0; height: 389px; padding: 0; background-color: #fafafa; }
+.tab-left-content .cs_wdget { margin-bottom: 0; box-shadow: none !important; }
+.head_left { background: #fafafa none repeat scroll 0 0; border-top: 1px solid #e6e6e6; color: #797881; display: block; padding: 7px 13px; text-decoration: none; font-size: 16px; font-weight: 500; }
+.no-padding-left { padding-left: 0 }
+.close_key { font-size: 15px; margin-bottom: 11px; margin-top: -9px !important; font-stretch:  display:inline-block;
+-webkit-transform: scale(1.5, 1); -moz-transform: scale(1.5, 1); -ms-transform: scale(1.5, 1); -o-transform: scale(1.5, 1); transform: scale(1.5, 1); }
+.hightlighted_keyword { font-weight: 500; background-color: #F2F2F2; color: #673074; }
+.jobtype { font-style: normal; font-size: 11px; border: 1px solid #ddd; padding: 2px; display: inline-block }
+.tagator_tag_remove { display: inline-block; font-weight: 400; color: #a6a5ab; margin: 0 0 0 5px; padding: 6px 5px 4px 5px; cursor: pointer; font-size: 11px; line-height: 10px; vertical-align: top; border-radius: 0 2px 2px 0; position: absolute; right: 0; top: 0; bottom: 0; }
+.you_searched { background: #fff; color: #282828; padding: 15px; margin-bottom: 30px; position: relative; min-height: 52px; }
+.you_searched .col-xs-9 { padding-left: 0px; width: 80%; transition: all 0.3s ease; }
+.you_searched .sq_h { color: #282828; font-size: 14px; font-weight: 400; margin-bottom: 5px; }
+.tagator_option { padding: 5px; cursor: pointer; color: #000; }
+.you_searched .sq_txt { color: #282828; font-size: 15px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; transition: all 0.3s ease; margin-top: 0; padding-right: 195px; margin-bottom: 0; }
+.tagator_option.active { background-color: #5e4fa2; color: #fff; }
+.you_searched .btnwrap { position: absolute; right: -12px; top: -12px; width: 195px; margin-right: 10px; }
+.form-group.no_mbtm { margin-bottom: 0; }
+.you_searched .btnwrap a { color: #6e6e6e !important; text-decoration: none; margin-top: 9px; background: #f8f8f8; border: solid 1px #e1e1e1; padding: 8px; font-size: 13px; border-radius: 3px; }
+.you_searched .btnwrap a.highlight_btn { background: #fff none repeat scroll 0 0; border: 1px solid #5e4fa2; color: #5e4fa2 !important; box-shadow: 1px 1px 1px 1px #eee; }
+.cancel_btn { background: #adb3c2; color: #fff !important; padding: 8px 20px; }
+.ns_brandmaximizer { width: 100%; position: relative; height: auto !important }
+.edit_form .row { margin-left: -5px; margin-right: -5px; }
+.ns_brandmaximizer_inner { display: none; margin: 0 auto; text-align: center; }
+.ns_brandmaximizer_popup { position: absolute; z-index: 1001; width: 400px; height: 300px; left: -700px; top: -400px; margin-left: 0; margin-top: 0; border: 2px #660099 solid; display: none; }
+.add_morelnk { color: #7c7c7c; text-decoration: underline; }
+.ns_brandmaximizer_popup_close_wrap { position: relative; width: 100%; }
+.add_morelnk:hover { color: #5e4fa2; }
+.ns_brandmaximizer_popup_close { top: -15px; right: -19px; background: url(http://media.monsterindia.com/seeker_2014/ns_combined.png) no-repeat -73px -120px; width: 32px; height: 32px; right: -20px; cursor: pointer; position: absolute; }
+.mrgnbtm { margin-bottom: 10px; }
+.sq_frmwrap .cal_wrap { height: 45px; }
+.cal_wrap { position: relative; background: #fff; border: 1px #ccc solid; position: relative; border-radius: 2px; height: 38px; }
+.ns_brandmaximizer_fade { background: rgb(0,0,0); background: #252525; opacity: 0.8; position: fixed; width: 100%; height: 100%; display: none; left: 0; top: 0; z-index: 1000; }
+.cal_wrap:focus { border: 1px #ccc solid; }
+.ns_bottombanner_wrap { width: 100%; background: #ffffff; height: 100px; text-align: center; border-top: 3px #660099 solid; position: fixed; bottom: -103px; z-index: 100; }
+.cal_wrap .form-control { border: 0 !important; background: none !important; box-shadow: none; position: relative; }
+.ns_bottombanner { width: 100%; background: #ffffff; height: 90px; text-align: center; margin: 0 auto; padding: 5px 0px; }
+.cal_wrap:before { width: 24px; height: 24px; content: ''; position: absolute; right: 5px; top: 50%; margin-top: -12px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -9px -262px; }
+.ns_bottombanner_space { width: 728px; margin: 0 auto; height: 90px; position: relative; }
+.noticewrap { position: relative; }
+.ns_bottombanner_close { top: 0px; background: url(http://media.monsterindia.com/seeker_2014/ns_combined.png) no-repeat -73px -120px; width: 32px; height: 32px; float: right; position: absolute; z-index: 10; right: -50px; cursor: pointer; }
+.checkbox.custom label { padding-left: 25px; line-height: 20px; z-index: 1 }
+.checkbox.custom input[type="checkbox"] { opacity: 0; }
+.ns_resulttxt_wrap_y { width: 100%; height: auto; background: #f0f0f0; height: 170px; }
+.checkbox.custom label::before { content: ''; display: block; position: absolute; width: 19px; height: 19px; left: 0; border: 1px solid #cccccc; border-radius: 3px; background-color: #fff; top: 0; z-index: 0; }
+.rgtadbanner { text-align: center; }
+.checkbox.custom label::after { display: block; position: absolute; width: 19px; height: 19px; left: 0; top: 0; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -128px -263px; }
+.facetspacr { height: 20px; }
+.checkbox.custom input[type="checkbox"]:checked + label::after { content: ''; }
+.job_alert { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; }
+.noticewrap .n_wrap { padding-right: 196px; }
+.job_alert .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; }
+.noticewrap .checkbox.custom { position: Absolute; right: 6px; top: 0; }
+.job_alert .field { margin-top: 10px; }
+.padd_top { padding-top: 14px; }
+.job_alert .field input { background: #f4f4f4; border: solid 1px #e1e1e1; color: #424242 }
+.mrgn_r { margin-right: 8px; }
+.job_alert .button { margin-top: 10px; }
+.help-block { font-size: 12px; margin-bottom: 12px; }
+.job_alert .button input { width: 100%; background: #92a732 !important; border-radius: 4px; color: #fff !important; font-size: 17px; font-weight: 300; display: block; text-decoration: none !important; padding: 5px; }
+textarea { resize: none; }
+.walkin_details .logo img { border: 1px solid #bfbfbf; }
+.walkin, .featured_employers { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; padding-bottom: 50px; position: relative; }
+.radio-inline.custom { padding-left: 0; margin-left: 0; margin-right: 12px; }
+.featured_employers { padding-bottom: 15px; }
+.walkin a, .featured_employers a { text-decoration: none; }
+.radio-inline.custom label { padding-top: 25px; font-weight: 400; }
+.walkin .heading, .featured_employers .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; }
+.radio-inline.custom input[type="radio"] { opacity: 0; }
+.walkin .title, .featured_employers .title { font-size: 16px; color: #52366f; font-weight: 400; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; margin-top: 10px; }
+.radio-inline.custom label::before { content: ''; display: block; position: absolute; width: 19px; height: 19px; left: 0; border: 1px solid #d1d1d1; border-radius: 50%; background-color: #fff; top: 0; }
+.walkin .company, .featured_employers .company { color: #f19005; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; }
+.radio-inline.custom label::after { display: block; position: absolute; width: 15px; height: 15px; left: 2px; top: 2px; background: #5e4fa2; border-radius: 50%; }
+.walkin .desc, .featured_employers .desc { font-size: 13px; margin-top: 7px; color: #83818a }
+.radio-inline.custom input[type="radio"]:checked + label::after { content: ''; }
+.walkin .view_more a, .featured_employers .view_more a { color: #57b8a9; font-weight: 400; font-size: 15px; display: block; background: #f2f2f2; padding: 10px; margin-top: 20px; border-top: solid 1px #e8e8e8; position: absolute; bottom: 0px; left: 0px; width: 100%; text-align: right }
+.radio-inline.custom input[type="radio"]:checked + label::before { border: 1px #5e4fa2 solid; }
+.result_head { width: 100%; margin-bottom: 15px; }
+.control-label { font-size: 15px; font-weight: 400; margin-bottom: 8px; display: block; }
+.result_head .count { font-size: 16px; color: #282828; padding-top: 5px; transition: all 0.3s ease; }
+#disability_opts { border: 1px #e8e8e8 solid; padding: 15px; margin: 10px -16px; background: #efeeee; }
+.result_head .btn-group .active { background: #565656; color: #fff; border: solid 1px #565656; transition: all 0.3s ease; }
+.checkbox.checkbox-inline { padding-left: 0; margin-top: 10px !important; margin-bottom: 10px; }
+.refine { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; padding-bottom: 24px; margin-bottom: 20px; }
+.refine .heading { font-size: 17px; font-weight: 400; color: #5e4fa2; padding: 13px; border-top: 1px #d7d7e4 solid; }
+.refine .facetwidget_h { padding: 13px; color: #828282; font-size: 15px; font-weight: 400; position: relative; cursor: pointer; border-top: 1px #d7d7e4 solid; }
+.no_before::before, .no_before::after { background: #fff !important; }
+.facetwidget_h:before, .facetwidget_h:after { content: ''; background: #b2b2b2; position: absolute; cursor: pointer; border-radius: 2px; }
+.facetwidget_h:before { width: 12px; height: 2px; right: 10px; top: 22px; }
+.facetwidget_h.collapsed:after { width: 2px; height: 12px; right: 15px; top: 17px; transition: all 0.3s linear; }
+.facetwidget_h.collapsed.active:after { top: 11px; height: 0px; }
+.facetwidget .facetwidgetbody { padding: 0 5px 10px 5px; }
+.facetwiditem { margin: 10px 0px 0px 10px; padding: 0px 30px 0px 0; position: relative; }
+.facetwiditem label { font-size: 13px; font-weight: 200 !important }
+.facetwiditem .checkbox.custom label::after { background: #5f328b url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_tick.png) no-repeat center center; border-radius: 2px; }
+.facetwiditem .csmall { margin-top: 4px; cursor: default; }
+.facetwiditem .csmall .chksmall { border: 1px #b6b6b6 solid; width: 16px; height: 16px; position: absolute; cursor: pointer; border-radius: 2px; left: 7px; top: -1px }
+.facetwiditem .csmall .chksmall:before { content: ''; position: absolute; top: 0; left: 0; width: 16px; height: 16px; }
+.facetwiditem .csmall.chcked .chksmall { border: 0px #8e8e8e solid; }
+.facetwiditem .csmall.chcked .chkicon:before { background: #5f328b url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_tick.png) no-repeat center center; border-radius: 2px; }
+.facetwiditem .csmall .chktext { font-size: 14px; margin-left: 8px; line-height: 20px; color: #737373; }
+.facetwiditem .ftxt { overflow: hidden; white-space: nowrap; text-overflow: ellipsis; line-height: 14px; font-size: 16px; color: #565656; }
+.facetwiditem .fcnt { font-size: 16px; position: Absolute; right: 6px; top: -1px; color: #673074; }
+.facetwidget_wrapper { position: relative; width: 100%; }
+.facetwidget_b { width: 100% !important; padding: 10px; background: #f2f2f2 }
+.facetwidget_b a { color: #000; font-size: 15px; }
+.facetwidget_b .fixed { padding: 5px; background: #fff; box-shadow: 0 0px 5px 0px #999; position: fixed; bottom: 0; z-index: 3; }
+.facetwidget_b .clear { padding: 10px 5px; text-decoration: underline; }
+.facetwidget_b .refine_button { width: 50%; }
+.facetwidget_b input { width: 100%; background: #92a732 !important; border-radius: 4px; color: #fff !important; font-size: 17px; font-weight: 300; display: block; text-decoration: none !important; padding: 5px; }
+.refine_mbutton { width: 50px; height: 50px; background: #ff7e00 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_refine.png) no-repeat center center; border-radius: 50px; position: fixed; bottom: 10px; right: 10px; box-shadow: 0 0px 5px 0px #999; cursor: pointer; z-index: 19; }
+.apply { border: 1px #5f328b solid; background: #5f328b; color: #fff; text-decoration: none !important; transition: all 0.3s ease; padding: 5px 25px; border-radius: 3px; margin-bottom: 10px }
+.apply:hover, .apply:focus { border: solid 1px #5f328b; background: #fff; color: #5f328b; }
+.company { color: #ff7800 }
+.meibox { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; position: relative; }
+.meibox a { text-decoration: none; color: #282828; }
+.meiimg { display: block; left: 10px; top: 20px; outline: 0; border: 0; position: absolute; }
+.meiboxh.lnk { margin-left: 80px; display: block; font-size: 14px; color: #673074; margin-bottom: 10px; font-weight: 400; min-height: 50px; }
+.cs_wdget { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 0px; }
+.cs_wdget .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; padding: 13px 13px 0px 13px; }
+.cs_wdget .title { font-size: 14px; color: #52366f; font-weight: 400; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; padding: 13px 13px 0px 13px; }
+.cs_wdget .desc { font-size: 13px; margin-top: 2px; color: #83818a; padding: 0px 13px; margin-bottom: 10px; }
+.cs_wdget .cat_article { display: block; padding: 7px 13px; background: #fafafa; text-decoration: none; border-top: solid 1px #e6e6e6; color: #797881; font-size: 13px; }
+.cs_wdget .cat_article:hover { background: #efefef; }
+.jobdes_toppanel { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/jd_background.jpg) no-repeat left top; background-size: cover; color: #282828; padding: 13px; margin-bottom: 30px; position: relative; }
+.jobdes_toppanel .job_title { font-size: 22px; color: #fff; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-weight: 400; }
+.jobdes_toppanel .company { color: #f19005; font-size: 22px; margin-top: 7px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
+.jobdes_toppanel a { background: rgba(255,255,255,0.3); border: solid 1px rgba(255,255,255,0.3); padding: 10px 15px; display: inline-block; border-radius: 20px; color: #fff; font-size: 15px; margin-top: 0px; text-decoration: none; transition: all 0.3s ease; }
+.jobdes_toppanel a:hover { border: solid 1px rgba(255,255,255,0.3); background: none; }
+.jobdes_toppanel .col-md-2 { padding: 0px; }
+.jobdes_toppanel .jd_logo { width: 100%; display: block; }
+.jobdes_toppanel .date { color: #fff; margin-top: 25px; }
+.job_summary { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; }
+.job_summary .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; margin-bottom: 15px; }
+.job_summary .jd_infowrap { width: 100% }
+.job_summary .jd_infoh { font-size: 15px; color: #424242; margin-bottom: 2px; }
+.job_summary .jd_infotxt { font-size: 15px; font-weight: 400; position: relative; color: #706f78; margin-bottom: 15px; }
+.job_description { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; }
+.job_description .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; margin-bottom: 15px; }
+.job_description .desc { color: #706f78; font-size: 15px; line-height: 25px; word-wrap: break-word; }
+.job_description .desc strong { font-weight: 400; }
+.job_description .follow { border: solid 2px #5e4fa2; border-radius: 2px; padding: 5px 20px; display: block; float: right; color: #5e4fa2; font-weight: 400; margin-top: 15px; }
+.key_skills { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; }
+.key_skills .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; margin-bottom: 15px; }
+.key_skills .skills a { display: inline-block; margin: 5px; padding: 5px 8px; border: solid 1px #706f78; border-radius: 2px; color: #706f78; text-decoration: none; transition: all 0.3s ease; }
+.key_skills .skills a:hover { background: #706f78; color: #fff; }
+.about_recruiter { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 13px; position: relative; padding-bottom: 100px; }
+.about_recruiter .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; margin-bottom: 15px; }
+.about_recruiter .tpjob_lnk { text-decoration: none; display: block; position: relative; }
+.about_recruiter .tpjob_lnk .tpjobwrap { position: relative; z-index: 2; padding: 4px 0px; }
+.about_recruiter .tp_rec { width: 66px; height: 66px; margin-right: 10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_2015/default_u50x50.jpg) no-repeat center center; }
+.about_recruiter .tp_rec img { display: block; width: 66px; height: 66px; border: 0; }
+.about_recruiter .tp_desc { width: 100%; }
+.about_recruiter .tpjob_title { font-size: 16px; font-weight: 400; color: #5d5d5d; text-decoration: none; display: block; margin-bottom: 3px; }
+.about_recruiter .tpjob_desc { font-size: 15px; color: #5d5d5d; margin-bottom: 3px; }
+.about_recruiter .tpjob_cname { font-size: 15px; color: #f19005; margin-bottom: 3px; white-space: nowrap; text-decoration: none; display: block; overflow: hidden; text-overflow: ellipsis; }
+.about_recruiter .recinfotxt { color: #5d5d5d; ; font-size: 15px; margin: 10px 0px; }
+.about_recruiter .recskill { color: #5d5d5d; font-size: 15px; margin-bottom: 3px; }
+.about_recruiter .recskill span { font-weight: 400 }
+.about_recruiter .follow { border: solid 2px #5e4fa2; border-radius: 2px; padding: 5px 20px; display: block; float: right; color: #5e4fa2; font-weight: 400; margin-top: 15px; }
+.about_recruiter .recruiter_info { position: absolute; bottom: 0; left: 0; width: 100% }
+.about_recruiter .recruiter_info .data { background: #f6f6f6; padding: 13px; border-top: solid 1px #e9e9ea; border-bottom: solid 1px #e9e9ea }
+.about_recruiter .recruiter_info .data span { font-weight: 400; }
+.about_recruiter .recruiter_info .data .follower { float: left }
+.about_recruiter .recruiter_info .data .date { float: right }
+.about_recruiter .recruiter_info .public_profile { padding: 13px; font-size: 15px; }
+.about_recruiter .recruiter_info .public_profile span { font-weight: 400; }
+.apply_panel { background: #382052; position: fixed; z-index: 99; left: 0; right: 0; bottom: 0; padding: 10px 0px; }
+.sharewrapbtm { position: absolute; left: 20px; top: 22px; }
+.sharecmmn { margin-right: 10px; }
+.jopt_iconwrap { position: absolute; left: 0px; top: 0px; }
+.job_options { display: block; position: relative; text-decoration: none; font-size: 15px; color: #c7c7c7; padding-left: 30px; line-height: 20px; height: 20px; cursor: pointer; margin-left: 10px; margin-right: 10px; }
+.job_options:hover { color: #fff; }
+.job_options:after { content: ''; height: 1px; background: #565656; position: Absolute; bottom: 1px; left: 0; transition: width 0.3s ease; width: 0px; }
+.jopt_iconwrap .miconshare { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -98px -33px; width: 20px; height: 20px; display: block; }
+.jopt_iconwrap .miconsave { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -170px -32px; width: 20px; height: 20px; display: block; }
+.applybtn { width: 96px; background: #92a732; border: 1px #673074 solid; border-radius: 4px; color: #fff; transition: background 0.3s ease; text-decoration: none; text-transform: uppercase; display: block; text-align: center; line-height: 26px; margin-bottom: 10px; }
+.apply_panel .applybtn { margin: 0 auto; line-height: 40px; font-size: 18px; }
+.similarwrap { position: absolute; right: 20px; top: 22px; color: #fff }
+a.lnk { font-size: 15px; color: #c7c7c7; text-decoration: none; transition: color 0.3s ease; position: relative; display: inline-block; }
+a.lnk:hover { color: #fff; }
+/* Search Result */
+.glyphicon-ok::before { background: url("http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png") no-repeat scroll -251px -465px !important; content: "" !important; float: left; height: 20px; width: 20px; }
+.t28 { font-size: 28px; color: #000; font-weight: 400; }
+.t20 { font-size: 20px; color: #000; font-weight: 400; }
+.orange { color: #ff7800 !important; }
+.black { color: #000 !important; }
+.medit_txt { display: inline-block; border-top: #dddddd 1px solid; border-bottom: #dddddd 1px solid; color: #676767; padding: 5px 0px; }
+.green { color: #92a732 !important; }
+a.green { text-decoration: underline; }
+.otp_btn { background: #5f328b; color: #fff !important; border-radius: 20px; font-size: 18px; font-weight: 400; padding: 5px 25px; }
+.label_purple { background: #5f328b; color: #fff !important; border-radius: 20px; font-weight: 400; max-width: 520px; padding: 10px; margin: 0 auto; }
+.or_text { display: inline-block; width: 32px; height: 32px; border-radius: 50%; border: 1px #c4c4c4 solid; color: #7d7d7d; text-align: center; font-size: 14px; line-height: 32px; position: relative; }
+.or_text:before, .or_text:after { content: ''; position: absolute; top: 50%; height: 1px; background: #dddddd; width: 110px; }
+.or_text:before { right: 42px; }
+.or_text:after { left: 42px; }
+.vcodewrap { max-width: 420px; margin: 0 auto; padding-right: 110px; position: relative; }
+.vcodewrap .save_btn { position: absolute; right: 0; top: 0; padding: 8px 11px; }
+.save_btn.btn-block { font-size: 16px; }
+.login_benefits { margin-top: 90px }
+.login_benefits .benefitsbox { padding: 0 10px 10px; }
+.login_benefits li hr { margin: 5px 0; }
+.login_textwrap { padding: 128px 0px; }
+.login_adwrap { padding: 85px 0px; text-align: center; }
+.login_adwrap img { display: block; margin: 0 auto; max-width: 389px; border: 0; }
+.loginwrap { margin-left: 0; position: relative; padding: 25px; }
+.afternone { margin: 0 auto; float: none; }
+.afternone .loginwrap { margin: 0; }
+.afternone .loginwrap:after { background: none !important; box-shadow: none !important; }
+.loginwrap:after { content: ''; position: Absolute; box-shadow: 3px 5px 1px -5px #999, -6px 6px 1px -6px #999, -4px 3px 1px -5px #999, -5px -4px 1px -5px #999; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); left: -15px; top: 30px; background: #fff; width: 32px; height: 30px; }
+.loginwrap.logout:after { content: none; }
+.t20.colr1 { color: #686572; }
+.edit_form.padd_all { padding: 20px 30px; }
+.forgot_wrap { position: relative; }
+.forgot_wrap:before { position: absolute; content: ''; left: 0; top: 50%; height: 1px; right: 0; background: #d6d6d6; }
+.forgot_wrapinnr { background: #f3f3f3; padding: 5px; display: inline-block; position: relative; }
+.forgot_wrapinnr, .forgot_wrapinnr a { color: #83818a !important; font-size: 13px; line-height: 20px; }
+.forgot_wrapinnr a { margin: 0px 5px; }
+.btn_orange { background: #ff7e00; color: #fff !important; margin-right: 8px; padding: 8px 20px; }
+.btn_purple { background: #5e4fa2 !important; color: #fff !important; margin-right: 8px; padding: 8px 20px; }
+.mrgnlft { margin-left: 10px; }
+.signup_head { font-size: 21px; text-transform: uppercase; font-weight: 500; color: #5e4fa2; position: absolute; left: -263px; top: -18px; width: 230px; text-align: right; }
+.quickprofile_head { font-size: 26px; text-transform: uppercase; font-weight: 500; color: #5e4fa2; text-align: center; }
+.signup_social a { padding-left: 35px; color: #fff !important; margin: 0px 5px; position: relative; }
+.signup_social a:before { width: 24px; height: 24px; content: ''; position: absolute; left: 5px; top: 3px; }
+.signup_social a.fb { background: #3a5999; }
+.signup_social a.gp { background: #df2f32; }
+.signup_social a.yh { background: #5a2b73; }
+.signup_social a.fb:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat 0px -294px; }
+.signup_social a.gp:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -24px -294px; }
+.signup_social a.yh:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -48px -294px; }
+.mx275 { max-width: 275px; margin: 0px auto; margin-bottom: 10px; }
+.f500 { font-weight: 500; }
+.alert.nopadd { padding: 5px 10px; }
+.tsmall { color: #575757; font-size: 14px; font-weight: 400; }
+.list_check { list-style: none; padding-left: 28px; margin-bottom: 20px !important; }
+.list_check li { margin-bottom: 10px; position: relative; }
+.list_check li:before { width: 18px; height: 14px; top: 0; content: ''; left: -25px; position: absolute; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -152px -265px; }
+ul.ver_text li { color: #333 !important; }
+strong, b { font-weight: 600 !important; }
+.t16 { font-size: 16px; font-weight: 400; }
+a.orange_lnk { color: #f57300; text-decoration: underline; }
+.btn-file { position: relative; overflow: hidden; }
+.btn-file.ico { display: block; padding-left: 50px; margin: 0; }
+.btn-file.ico:before { content: ''; position: absolute; left: 0; top: 0; width: 50px; height: 36px; background: #4d3f89; border-right: 1px #6a5bac solid; }
+.btn-file.ico:after { content: ''; position: absolute; left: 10px; top: 4px; width: 36px; height: 24px; }
+.btn-file.ico_cam:after { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -72px -294px; }
+.btn-file.ico_imageuploaded:after { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -132px -294px; }
+.btn-file.ico_crop:after { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -73px -484px; margin-top: 3px; }
+
+/* upload photo */
+.cursorpoint {cursor: pointer}
+.font15 {font-size:15px;}
+.uploadframe { padding-top: 45px; width: 180px; height: 160px; margin: 0 auto; border: 3px dashed #c7c7c7; color: #9d9c9c; margin-top: 10px; }
+.midcam { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png") no-repeat scroll -72px -294px; width: 50px; height: 50px; background-color: #c7c7c7; border-radius: 3px; height: 28px; margin: 0 auto; width: 31px; margin-bottom: 8px; }
+#update_info .placeholder_cmmn input.form-control:valid ~ label {
+background: #ddd;
+padding: 1px 4px;
+color: #888;
+border-radius: 12px;
+font-size: 10px;
+top: -9px;
+left: 28px;
+}
+.btn-file input[type=file] { position: absolute; top: 0; right: 0; min-width: 100%; min-height: 100%; font-size: 10px; text-align: right; filter: alpha(opacity=0); opacity: 0; outline: none; background: white; cursor: pointer; display: block; }
+.formatsupport { font-size: 11px; color: #686868; padding: 5px 30px; display: inline-block; border-top: 1px #e0e0e0 solid; }
+a.t20 { color: #252525; text-decoration: underline; }
+.mrgnbtm20 { margin-bottom: 20px; }
+.visible-inline { display: inline-block; }
+.makehiddenopwrap { max-width: 520px; padding: 0px 15px; }
+.mn-sidebarwrap { padding: 20px 15px; text-align: center; }
+.mn-adbox { display: inline-block; text-align: left; }
+.block_box { display: block; }
+.row-equal { overflow: hidden; }
+.col_equal { margin-bottom: -99999px; padding-bottom: 99999px; position: relative; }
+.mrgnbtm30 { margin-bottom: 30px !important; }
+.mrgnbtm15 { margin-bottom: 15px !important; }
+.mrgntp30 { margin-top: 30px !important; }
+.mrgntp10 { margin-top: 10px; }
+.mrgntp5 { margin-top: 5px; }
+.borderbox { box-sizing: border-box !important }
+.tab_wrapper { position: relative; }
+.tab-content .tab-pane.padd20 { padding: 20px; }
+.pdtb { padding-top: 30px; padding-bottom: 30px; }
+.pdtb15 { padding-top: 15px; padding-bottom: 15px; }
+.pdtb30 { padding-top: 30px; padding-bottom: 30px; }
+.rec_item { border: 1px #ececec solid; }
+.rec_iteminnr { padding: 20px; }
+.gr_pos { font-weight: 400; color: #5d5d5d; }
+.gr_cmp { color: #ff7800; font-weight: 400; }
+.u_info { position: relative; padding-left: 80px; }
+.u_info2 { padding-left: 45px !important; }
+.u_info .rec_imgwrap { position: absolute; left: 0; top: 0; }
+.rc_txtsmall { font-size: 12px; color: #94919e; }
+.rec_btmwrap { background: #f7f8fb; border-top: 1px #e6e6e6 solid; padding: 10px; color: #424242; line-height: 20px; }
+.btnsmall { padding: 0px 8px; font-size: 13px; }
+.mn_h1 { font-size: 20px; font-weight: 400; color: #5e4fa2; margin: 0; margin-bottom: 15px; }
+.mn_h1 .mn-lnk1 { color: #92a732 !important; font-size: 12px; float: right; margin-top: 7px }
+a.ar_lnk { text-decoration: none; color: #424242; position: relative; padding-left: 8px; display: inline-block; margin: 5px 0px; font-weight: 300; font-size: 13px; }
+a.ar_lnk:hover { color: #000; text-decoration: underline; }
+a.ar_lnk:before { content: '\203A'; position: absolute; left: 0; }
+a.subar_lnk { margin: 0 0 4px 5px; font-size: 12px }
+a.subar_lnk:before { content: '-'; position: absolute; left: 0; }
+.ar_linkSub { display: block; margin-left: 8px; }
+.ar_linkSub a.ar_lnk { padding-left: 0px; margin: 3px 0 }
+.ar_linkSub a.ar_lnk:before { content: '\203A'; position: absolute; left: 0; display: none }
+.settings_header { position: relative; }
+.settings_h { font-size: 22px; color: #6a2886; font-weight: 400; }
+.fixed_footer_button { position: absolute; right: 0; top: 0; }
+.btn-default { background: none; border: 1px #cecece solid; color: #555; font-size: 16px; border-radius: 2px; font-weight: 200; }
+.setting_tab { height: 155px; background: #ffffff; padding: 20px; display: block; text-align: center; text-decoration: none !important; color: #282828 !important; font-weight: 400; position: relative; }
+.mn-shdcmmn_setting { margin-bottom: 15px; }
+.heading_settings { font-size: 20px; margin-bottom: 15px; font-weight: 400; color: #663399 }
+.pdrl { padding: 0px 11px; }
+.settab_img { width: 52px; height: 52px; margin: 0 auto; margin-bottom: 10px; }
+.settab_img.ico1 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -130px -260px; }
+.settab_img.ico2 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -182px -260px; }
+.settab_img.ico3 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -130px -312px; }
+.settab_img.ico4 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -182px -312px; }
+.settab_img.ico5 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -130px -364px; }
+.settab_img.ico6 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -182px -364px; }
+.settab_img.ico7 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat 0px -392px; }
+.setting_tab.active { background: #fff; border: 3px #663399 solid; box-shadow: none; }
+.setting_tab.active:after { content: ''; position: Absolute; border-left: 3px #663399 solid; border-right: 3px #663399 solid; left: -3px; right: -3px; height: 21px; bottom: -21px; z-index: 8; background: #fff; }
+.settingtab_cont { background: #f2f2f2; border: solid 3px #663399; }
+.settingtab_inner { border: solid 15px #fff; padding: 15px 30px; }
+.set_txtbig { font-size: 18px; color: #737373; }
+.set_txtblk { font-size: 16px; color: #282828; }
+.mx600 { max-width: 600px; }
+.a_selbox { border: 1px #e1e1e1 solid; border-radius: 3px; cursor: pointer; background: #fff; overflow: hidden; }
+.a_selbox.active { border: 1px #30c8a3 solid; cursor: default; }
+.a_selbox .a_selimg { width: 130px; height: 130px; margin: 40px auto; }
+.a_selbox .a_selimg.ico1 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat 0px 0px; }
+.a_selbox .a_selimg.ico2 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -130px 0px; }
+.a_selbox .a_selimg.ico3 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat 0px -130px; }
+.a_selbox .a_selimg.ico4 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -130px -130px; }
+.a_selbox .a_selimg.ico5 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat 0px -260px; }
+.pdall { padding: 15px 10px; }
+.pdall30 { padding: 30px !important; }
+.pdall15 { padding: 15px; }
+.pdall5 { padding: 5px; }
+.pdall0 { padding: 0px!important; }
+.nomargin { margin: 0px !important; }
+.border_btm { border-bottom: solid 1px #ddd }
+.border_left { border-left: solid 1px #ddd }
+.border_right { border-right: solid 1px #ddd }
+.a_seltxt { background: #eaeaea; border-top: #dfdfdf 1px solid; padding: 10px; position: relative; color: #737373; padding-right: 40px; min-height: 90px; }
+.a_selbox.active .a_seltxt { background: #30c8a3; color: #fff; }
+.a_seltxth { font-size: 18px; color: #282828; }
+.a_selbox.active .a_seltxth { color: #fff; }
+.a_seltxt:after { content: ''; position: absolute; width: 32px; height: 32px; right: 5px; top: 10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -103px -291px; border: 1px #bdbdbd solid; border-radius: 50%; transition: background 0.3s ease; }
+.a_selbox.active .a_seltxt:after { background: #24b78e url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -133px -291px; border: 1px #fff solid; }
+.ln20 { line-height: 20px; }
+.bld { font-weight: 400; }
+.bld_1 { font-weight: 500; }
+.settings_row.row { margin-right: -11px; margin-left: -11px; clear: both; }
+.link_sc { display: inline-block; border: 1px #d3d3d3 solid; border-radius: 3px; background: #f6f6f6; color: #282828; line-height: 38px; margin-bottom: 10px; width: 110px; text-align: center; cursor: pointer; }
+.link_sc.mrgn { margin-left: 10px; margin-right: 10px; }
+.link_scico { border-radius: 3px; border-bottom: 1px #d3d3d3 solid; background: #eaeaea; line-height: 38px; position: relative; padding-left: 18px; }
+.link_scico:before { width: 24px; height: 24px; content: ''; position: absolute; left: 7px; top: 50%; margin-top: -12px; }
+.link_scico.fb:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -162px -294px; }
+.link_scico.gp:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -186px -294px; }
+.link_scico.tw:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -210px -294px; }
+.link_sc.active { background: #ffffff; }
+.link_sc.active .link_scico { color: #fff; }
+.link_sc.active .link_scico.fb { background: #3a5999; }
+.link_sc.active .link_scico.fb:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat 0px -294px; }
+.link_sc.active .link_scico.gp { background: #df2f32; }
+.link_sc.active .link_scico.gp:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -24px -294px; }
+.link_sc.active .link_scico.tw { background: #5a2b73; }
+.link_sc.active .link_scico.tw:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -48px -294px; }
+.mbr { position: relative; }
+.mbr:before { top: 0; bottom: 0; content: ''; position: Absolute; right: 0; width: 1px; background: #d7d7d7; }
+.mpv_btmbox { background: #fff; margin: 0 -30px 30px -30px; padding: 20px 30px; }
+.mk_hiddenbox { border: 1px #e6e6e6 solid; border-radius: 3px; padding: 15px; max-width: 370px; padding-right: 110px; position: relative; }
+.mk_hiddenbox .btn { position: Absolute; right: 15px; bottom: 15px; }
+.mk_hiddenbox span { direction: ltr; }
+.list-group-item { border-radius: 0 !important; }
+.t_h1 { font-weight: 500; color: #5a5764; margin-bottom: 5px; }
+.tab-content .tab-pane.pdtb30 { padding: 30px; }
+.list-group.pdtb20 .list-group-item { padding: 20px; }
+.n_date { color: #424242; }
+.n_contact { position: relative; display: inline-block; color: #83818a; text-decoration: underline; padding-left: 20px; }
+.n_contact:before { content: ''; position: Absolute; left: 0; top: 3px; width: 14px; height: 9px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -182px -268px; }
+.insidescreen_only .modal-body { max-height: calc(100vh - 210px); overflow-y: auto; padding: 15px 10px; word-wrap: break-word; }
+.modal-footer { padding: 10px; }
+.mrgnbtm5 { margin-bottom: 5px; }
+.cont_hdr { padding: 10px; background: #f0f0f0; }
+.cmp_big .col-xs-4, .rec_big .col-xs-3 { max-width: 110px; }
+.rec_big .rec_imgwrap { margin: 0 auto; }
+.job_applydate { padding: 10px 20px; border-top: #e6e6e6 1px solid; background: #f7f8fc; margin: 0px -15px -15px -15px; }
+.job_adate { padding: 4px 10px; font-size: 12px; }
+.savedjoblnk { padding: 0px 10px 10px 10px; }
+.savedjoblnk a { display: block; border-bottom: 1px #e6e6e6 solid; white-space: nowrap; text-overflow: ellipsis; white-space: nowrap; text-decoration: none !important; color: #454545; padding: 8px 0px; }
+/*.savedjoblnk a:last-child{border-bottom:0;}*/
+.savedjoblnk a:hover { border-bottom: 1px #252525 solid; color: #252525; }
+.cn_importpanel { background: #5e4fa2; padding: 20px; }
+.cn_inputwrap { position: relative; padding-right: 240px; }
+.cn_inputwrap .form-control { border-radius: 0; border: 0; }
+.cn_inputwrap .btn { width: 240px; border-radius: 0; position: absolute; right: 0; top: 0; font-size: 16px; padding: 5px 20px; line-height: 1.67; }
+.pagination.full-width { display: table; width: 100%; }
+.pagination.full-width>li { display: table-cell; }
+.pagination.full-width>li>a { float: none; position: relative; display: block; padding: 5px 0px; text-align: center; }
+.pagination.full-width>li.active>a:before { content: ''; position: Absolute; width: 0px; height: 0px; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 6px solid #683996; left: 50%; bottom: -6px; margin-left: -6px; }
+.pagination.full-width>li.icon_home { height: 30px; width: 35px; }
+.pagination.full-width>li.icon_home>a { height: 30px; width: 35px; color: #f2f2f2; }
+.pagination.full-width>li.icon_home>a:after { content: ''; position: Absolute; left: 50%; top: 50%; width: 17px; height: 13px; background: #f2f2f2 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -237px -298px; margin-left: -8px; margin-top: -7px }
+.pagination.full-width>li.icon_home.active>a { color: #683996; }
+.pagination.full-width>li.icon_home.active>a:after { background: #683996 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -256px -298px; }
+.cn_itemwrap { padding: 10px; }
+.cn_itemwrap.my_cn { padding-right: 30px; position: relative; }
+.pend_tabwrap { padding: 10px 10px 20px 10px; }
+.pend_tabwrap .btn { background: #fff; color: #454545; border-color: #e1e1e1; box-shadow: none; font-size: 18px; font-weight: 300; padding: 6px 25px; }
+.pend_tabwrap .btn.active { background: #98b011; color: #fff; border-color: #98b011; }
+.tooltip-inner { text-align: left; }
+.tooltip-inner .bld { font-weight: 500; margin-bottom: 7px; font-size: 15px; }
+.endorse_btn_darbg, .endorse_btn_darbg:hover { background-color: #382052 !important; color: #ccc !important; border: 1px solid #eee; }
+.endorse_btn { background: #FCFCFC; box-shadow: none; float: right; padding: 5px; border: 1px solid #eee; font-size: 12px; clear: both; }
+.nopadding { padding: 0 !important; }
+.get_endorsed { background-color: #24B186; color: #fff; padding: 7px; }
+.endorsebox { display: block; }
+.endorsebox_myapp { padding: 0; margin: 0; display: inline-block; float: right; }
+.endorsebox .photo, .endorsebox_myapp .photo { width: 30px; height: 30px; border: solid 1px #999; margin-right: 5px; }
+.endorsebox .photo img, .endorsebox_myapp img { width: 30px; height: 30px; }
+#myEndorsed .mn_chkwrap { margin: 0; padding: 0; float: left; }
+#myEndorsed .u_info { margin-left: 25px; }
+#myEndorsed .tab-content .tab-pane { height: 266px; overflow-y: scroll; }
+#myEndorsed .btn-primary:hover { background-color: #5E4FA2 !important; }
+.cn_addorwrap { position: relative; padding: 20px 0px; text-align: center; }
+.cn_addorwrap:before { content: ''; position: Absolute; left: 0; right: 0; top: 50%; height: 1px; background: #7165ac; }
+.cn_addorwrapinnr { display: inline-block; width: 22px; height: 22px; color: #e7e7e8; text-transform: uppercase; border: 1px #e7e7e8 solid; line-height: 22px; position: relative; border-radius: 50%; font-size: 10px; background: #5e4fa2; }
+.cn_importpanel .signup_social a { margin: 0px 10px; }
+.mn_cnopts { position: absolute; width: 22px; height: 22px; right: 5px; top: 5px; cursor: pointer; }
+.mn_cnopts:after { content: ''; position: absolute; width: 22px; height: 22px; left: 0; top: 0; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -44px -318px; }
+.mn_cnopts:hover { background: #3d2753; }
+.mn_cnopts:hover:after { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -66px -318px; }
+.mn_cnddwrap { position: absolute; top: 21px; display: none; right: 0; z-index: 3; width: 180px; }
+.mn_cnddwrap a { background: #3d2753; border-bottom: 1px #4b375f solid; padding: 5px 10px; color: #aea4b7; text-decoration: none !important; font-size: 14px; line-height: 1.42857143; display: block; text-align: right; }
+.mn_cnddwrap a:last-child { border-bottom: 0; }
+.mn_cnddwrap a:hover { background: #321e46; color: #c3bacb; }
+.mn_cnopts:hover .mn_cnddwrap { display: block; }
+.mnt_tip:after { display: inline-block; content: ''; width: 17px; height: 17px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -3px -321px; position: relative; top: 3px; }
+.mnt_tip.wht:after { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -25px -321px; }
+.sc_tip { position: relative; }
+.cn_importpanel.sc_tip { padding-top: 30px; }
+.sc_tip .mnt_tip { position: absolute; right: 10px; top: 5px; }
+.rec_btmwrap .rec_lnk { color: #424242; text-decoration: underline; }
+.rec_item .job_optwrap { margin: 0; }
+.rectxtwrap { padding: 5px; color: #a09fa4; }
+.rccmp_lnk { color: #94919e; text-decoration: underline; }
+.apjob_item { border-bottom: 1px #e6e6e6 solid; padding: 5px 10px; margin-bottom: 10px; }
+.apjob_item.last { border-bottom: 0; margin-bottom: 0; }
+.subs_box { border: 1px #e3e3e3 solid; padding: 20px; }
+.subs_box .radio-inline+.radio-inline, .subs_box .checkbox-inline { margin-left: 0; margin-right: 10px; }
+.tcmplnkwrap { padding: 0px 10px 10px 15px; }
+.tcmplnkwrap a { font-size: 13px; color: #9c9c9c; position: relative; padding-left: 8px; display: inline-block; overflow: hidden; word-wrap: break-word; margin-bottom: 5px; }
+.tcmplnkwrap a:before { content: '\203A'; position: absolute; left: 0; }
+.cs_itemwrap { padding: 0px 10px 10px 15px; border-bottom: 1px #e0e0e0 solid; margin-bottom: 10px; }
+.cs_itemwrap.last { marign-bottom: 0; border-bottom: 0; }
+.mnjb_wrap { padding-right: 200px; position: relative; }
+/*.mnjb_btn{position:absolute;right:0px;top:0px;}*/
+.mnjb_btn { margin-top: 15px; margin-right: 0px; }
+.rop_lnk { display: inline-block; padding: 15px 5px; border-right: 1px #ededed solid; }
+a.rop_lnk { text-decoration: underline; }
+.rop_lnkwrap { padding: 0px 10px; }
+.mnag_cwrap { padding: 15px 20px; }
+.mj_info { padding: 5px 0px; white-space: nowrap; text-overflow: ellipsis; overflow: hidden }
+.mj_list { padding-left: 18px; }
+.req_ico { font-size: 16px; font-weight: 500; color: #ff0000; line-height: 16px; top: 0; vertical-align: top; }
+.cjb_orwrap { padding: 10px 0px; }
+.cjb_orwrap a { text-decoration: underline; color: #0b0097; font-weight: 400; }
+.success_msg { color: #fff; background: #2eb489; border-radius: 20px; padding: 8px 10px; padding-left: 45px; position: relative; word-wrap: break-word; }
+.success_msg:before { content: ''; width: 20px; height: 16px; position: absolute; left: 15px; top: 8px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -137px -298px; }
+.mpp_img { max-width: 96px; }
+.mpp_recomandwrap { font-size: 24px; color: #fa8700; padding: 20px; padding-right: 240px; position: relative; }
+.remnd_btn { width: 210px; position: absolute; right: 20px; top: 15px; font-size: 18px; background: #fa7600; color: #fff; }
+.mpp_connnectwrap { padding: 10px; }
+.mpp_connnectinnr { max-width: 223px; margin: 0 auto; padding-right: 40px; position: relative; }
+.btn-white { background: #f7f8fb; color: #4a2a51; max-width: 182px; font-size: 16px; }
+.mpp_connnectdd { width: 34px; background: #fff; height: 39px; border-radius: 4px; position: Absolute; right: 0; top: 0; padding: 6px 5px; cursor: pointer; }
+.mpp_connnectdd:hover { background: #3d2753; }
+.mpp_connnectico { width: 24px; height: 24px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -43px -316px; }
+.mpp_connnectdd:hover .mpp_connnectico { background: #3d2753 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -65px -316px; }
+.mpp_connnectddmain { z-index: 3; position: absolute; right: 0px; top: 36px; width: 170px; display: none; }
+.mpp_connnectddmain a { display: block; background: #3d2753; border-bottom: 1px #4c375e solid; padding: 8px 10px; color: #c3bacb; border-left: 0; font-size: 14px; text-align: left; }
+.mpp_connnectddmain a:hover { text-decoration: none; backgorund: #321e46; color: #fff; }
+.mpp_connnectdd:hover .mpp_connnectddmain { display: block; }
+.selectpicker .select_main { background-color: #fff; border: 1px solid #ccc; text-align: left; border-radius: 2px; font-size: 16px; padding: 8px 12px; height: 38px; box-shadow: none !important; font-weight: 300; text-shadow: none; position: relative; line-height: 1.42857143; color: #555; outline: 0 !important; overflow: hidden; }
+.selectpicker .select_main:before { position: absolute; content: ''; right: 5px; top: 50%; width: 10px; height: 10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -158px -326px; margin-top: -5px; }
+.select_menu { position: absolute; left: 5px; right: 5px; top: 36px; border: 1px solid rgba(0,0,0,0.15); box-shadow: 0 6px 12px rgba(0,0,0,0.175); font-size: 14px; text-align: left; z-index: 1000; background: #fff; display: none; }
+#jobtype { z-index: 9 !important }
+.search-box { padding: 10px 10px 5px 10px; }
+.list-to-filter { padding: 5px 0px 10px 0px; max-height: 250px; overflow-y: scroll; border-top: 1px solid #e6e6e6; }
+.list-to-filter .form-group { margin-bottom: 0px; }
+.list-to-filter .form-group .checkbox, .list-to-filter .form-group .radio { margin-top: 0px; margin-bottom: 0px; }
+.list-to-filter .form-group .checkbox.custom label { padding: 5px 5px 5px 35px; display: block; }
+.list-to-filter .form-group .checkbox.custom label:before { left: 10px; top: 5px; }
+.list-to-filter .form-group .checkbox.custom label:after { left: 10px; top: 5px; }
+.list-to-filter .form-group .checkbox.custom label:hover { background: #eee; }
+.row_bg { margin: 0; background: #f8f6f6; border: 1px #efefef solid; border-bottom: none; padding-top: 5px; }
+.row_bg + .row_bg { border-top: none; padding-top: 0; }
+.row_bg:last-child { border-bottom: 1px #efefef solid; padding-bottom: 5px; }
+.row_bg .col { padding: 5px 10px; }
+.tp_elogowrap { padding: 0px 5px 10px 5px; margin: 0; }
+.tp_elogo { padding: 0px 5px 10px 5px; }
+.tp_elogo a { display: block; border: 0; max-width: 110px; margin: 0 auto; max-height: 40px; height: 40px; overflow: auto; }
+.tp_elogo a img { display: block; border: 1px solid #bfbfbf; width: 100%; height: 100% }
+.st_box { border: 1px #e9e9e9 solid; margin-bottom: 20px; }
+.st_boxh { color: #454545; padding: 10px; border-bottom: 1px #e9e9e9 solid; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin: 0; font-weight: 400; text-decoration: none !important; display: block; background: #f8f6f6; }
+.st_boxh:hover { color: #660099; }
+.st_boxcity { padding: 5px; background: #f9f9f9; }
+select.form-control { padding-right: 12px; -moz-appearance: window; cursor: pointer; box-sizing: border-box !important; }
+select.form-control::-ms-expand {
+display: none;
+}
+.padd_top40 { padding-top: 40px; }
+/*cswidget*/
+.cs_wdget { box-shadow: 0px 0px 3px #bfbfbf; background: #fff; margin-bottom: 30px; padding: 0px; }
+.cs_wdget .heading { font-size: 17px; font-weight: 400; position: relative; color: #5e4fa2; padding: 13px 13px 0px 13px; }
+.cs_wdget .title { font-size: 14px; color: #52366f; font-weight: 400; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; padding: 13px 13px 0px 13px; }
+.cs_wdget .desc { font-size: 13px; margin-top: 2px; color: #83818a; padding: 0px 13px; margin-bottom: 10px; }
+.cs_wdget .cat_article { display: block; padding: 7px 13px; background: #fafafa; text-decoration: none; border-top: solid 1px #e6e6e6; color: #797881 }
+.cs_wdget .cat_article:hover { background: #efefef; }
+/*cswidget*/
+.switchto_btn { position: fixed; left: 10px; bottom: 10px; z-index: 99; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/switch_to.png) 0px 0px no-repeat; overflow: hidden; width: 48px; height: 48px; border-radius: 10px; display: none; }
+.switchto_btn:hover { box-shadow: 0px 0px 3px #999; }
+/*analytics*/
+.sugg_que .inputbox.filebox { height: auto; padding: 7px 10px; }
+.sugg_que.w150 .btnwrap .btn { width: 150px; }
+.sugg_que.w150 .btnwrap { width: 190px; }
+.sugg_que.w150 .sq_frmwrap { padding-right: 200px; }
+.sugg_que .btnwrap a.btn { margin-top: 0; }
+.gadget_wrap { max-width: 900px; margin: 0 auto; }
+.gauge_item { max-width: 275px; margin: 0 auto; text-align: center; }
+.gauge_item .chart_wrap { background: #fff; box-shadow: 0px 0px 1px #ddd; max-height: 160px; padding: 10px; border: 1px #eee solid; margin-bottom: 15px; overflow: hidden; }
+.gauge_h { font-size: 22px; color: #ff7800; margin-bottom: 5px; }
+.gauge_hsmall { color: #5d5d5d; font-size: 16px; margin-bottom: 10px; font-weight: 400; }
+.gauge_txt { color: #83818a; }
+.chart_gauge { width: 100%; margin: 0 auto; height: 240px; }
+.gadget_wrap .owl-nav { text-align: center; padding-top: 10px; }
+.gadget_wrap .owl-nav .owl-prev, .gadget_wrap .owl-nav .owl-next { display: inline-block; width: 22px; height: 22px; margin: 0px 5px; text-indent: 999px; overflow: hidden; }
+.gadget_wrap .owl-nav .owl-prev { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -175px -318px; }
+.gadget_wrap .owl-nav .owl-next { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -197px -318px; }
+.insight_jobs { padding: 10px; background: #fff; border: 1px #efeff1 solid; padding-right: 50px; position: relative; }
+.insight_jobs .open_externallnk { position: absolute; right: 5px; top: 5px; width: 22px; height: 22px; display: block; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -221px -318px; }
+.insight_jobs .in_txt, .insight_jobs a { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: block; margin-bottom: 5px; }
+.insight_jobs .in_txt.mrgnbtm { margin-bottom: 15px; }
+.insight_jobs .btn { display: inline-block; }
+.in_ad { display: block; }
+.in_ad img { display: block; width: 100%; }
+.msi_select { max-width: 770px; margin: 0 auto; padding: 10px 10px 30px 10px; }
+.msi_graph { max-width: 950px; padding: 0px 10px; margin: 0 auto; }
+.msi_chart { width: 100%; height: 250px; margin-bottom: 20px; }
+.msi_h { font-size: 16px; color: #ff7800; text-transform: uppercase; padding: 10px; font-weight: 400; }
+.insight_tabwrap { border-bottom: 1px #c0c0c0 solid; text-align: right; position: relative; }
+.insight_tabitem { float: right; text-align: center; display: inline-block; cursor: pointer; border: 1px #c0c0c0 solid; border-left: 0; margin-bottom: -1px; font-size: 15px; color: #9a9a9a; background: #f7f8fb; padding: 15px; }
+.insight_tabitem.active { cursor: default; background: #fff; position: relative; color: #ff7900; border-bottom: 1px #fff solid; border-top: 1px #ff7900 solid; }
+.insight_tabitem:nth-last-child(1) { border-left: 1px #c0c0c0 solid; }
+.mei_chartwrap { position: relative; border-bottom: 1px #c0c0c0 solid; margin: 0; }
+.mei_chartwrap .col { position: static; padding: 30px 20px; }
+.mei_chartwrap .col-md-4:after { content: ''; top: 0; bottom: 0; left: 33.3333%; position: absolute; border-right: 1px #c0c0c0 solid; }
+#mei_graph, #view_graph { width: 100%; height: 240px; }
+.view_graphwrap { padding: 30px 10px; max-width: 990px; margin: 0 auto; }
+.tab_header { position: absolute; left: 0px; top: 0px; text-align: left; }
+.tab_hmain { font-size: 20px; font-weight: 500; color: #683996; }
+.insight_tabitem.active span.bld { color: #ff7900 !important; }
+.pf_addconwrap .rec_item { background: #fff; }
+.srchtips { position: relative; padding: 10px; padding-left: 60px; color: #424242; border-bottom: 1px #eef0f2 solid; }
+.srchtips:nth-last-child(1) { border-bottom: 0; }
+.srchtips:before { content: ''; position: absolute; width: 40px; height: 40px; left: 10px; top: 10px; }
+.srchtips .srchtips_h { color: #92a732; margin-bottom: 5px; }
+.srchtips.tip1:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat 0px -340px; }
+.srchtips.tip2:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -40px -340px; }
+.srchtips.tip3:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -80px -340px; }
+.srchtips.tip4:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -120px -340px; }
+.srchtips.tip5:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -160px -340px; }
+.table-bordered>tbody>tr>td { border: 1px #bebebe solid; padding: 15px 10px; }
+.jobs_byarticles { border: 1px #bfbfbf solid; background: #ffffff; border-top: 0; }
+.jobs_byarticles .art_head2 { font-size: 13px; font-weight: 500; background: #f7f7f7; color: #000000; text-align: left; line-height: 28px; height: 28px; border-top: 1px #bfbfbf solid; padding: 0px 8px; display: block; text-decoration: none; position: relative; padding-right: 20px; }
+.jobs_byarticles .art_head2:after { position: absolute; content: ''; width: 10px; height: 10px; right: 7px; top: 9px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) -160px -327px no-repeat; }
+.jobs_byarticles .jobsby_innrart { padding: 0px 8px; margin-top: 10px; display: none; }
+.jobs_Artimgwrap { display: block; margin-bottom: 5px; }
+.jobs_byarticles .art_head1 { color: #454545; line-height: 26px; font-size: 12px; font-weight: 500; text-align: left; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.jmore_wrap { margin-bottom: 10px; }
+.ap_jobwrap.c_scrollbox { height: auto; max-height: 800px; }
+.cs_iconwrap .col-sm-2 { padding: 0px; }
+.cc_header { text-align: center; padding: 120px 10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cc_header.jpg) no-repeat center top; background-size: cover; }
+.cc_header h1 { font-weight: 400; color: #fff; font-size: 50px; text-transform: uppercase; margin: 0; }
+.cc_header.mrr { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mrr_header.jpg) no-repeat center top; background-size: cover; }
+.cc_header.complain { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cmp_heder.jpg) no-repeat center top; background-size: cover; }
+.cc_header.cjobs { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cjob_header.jpg) no-repeat right top; background-size: cover; padding: 68px 100px; text-align: left; }
+.cc_header.cjobs .cc_headerinnr, .cc_header.msi .cc_headerinnr { max-width: 1300px; margin: 0 auto; }
+.cc_header.msi { padding: 80px 10px; }
+.cc_header.cjobs h1 { color: #342578; text-transform: capitalize; margin: 0 auto; margin-bottom: 20px; font-size: 44px; }
+.cc_header.msi { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mei_header.jpg) no-repeat center top; background-size: cover; }
+.cc_header.msi.exp_speak { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/es_header.jpg) no-repeat center top; background-size: cover; }
+.cs_link { display: block; border: 1px #e1e1e1 solid; background: #f7f7f7; padding: 20px 10px 55px 10px; font-size: 14px; color: #000; text-align: center; position: relative; transition: all 0.3s ease; font-weight: 400; }
+.cs_link:hover { background: #fff; color: #000; box-shadow: 0px 0px 7px rgba(0,0,0,0.5); margin-right: 1px; }
+.cs_link .cs_linktxt { position: absolute; left: 10px; right: 10px; }
+.cs_lnkicowrap { width: 110px; height: 85px; padding: 0px 18px 1px 18px; border: 0px #d1d1d1 solid; margin: 0 auto; border-radius: 50%; position: relative; }
+.tending_articles { background: #fff; min-height: 324px; overflow: hidden; height: 210px; }
+.tending_articles .header { font-size: 20px; color: #fc671e; padding: 10px 60px; font-weight: 400; position: relative; margin-bottom: 10px; }
+.tending_articles .header:before { content: ''; width: 32px; height: 32px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_arrow.png) no-repeat; top: 50%; left: 15px; margin-top: -13px; position: absolute; }
+.tending_articles ul { margin: 10px 0px; list-style-image: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_dots.png); font-size: 14px; font-weight: 400; }
+.tending_articles li { line-height: 20px; margin-bottom: 12px; padding-left: 10px; }
+.cs_lnkico { width: 73px; height: 73px; display: block; border: 0; }
+.tcmplnkwrap.orange a { font-size: 14px; }
+.tcmplnkwrap.orange a:hover, .tcmplnkwrap.orange a.active { color: #ff8a00; text-decoration: none; }
+.cc_article { border-bottom: 1px #e6e6e6 solid; padding: 10px 0px; }
+.cc_article.mrr { position: relative; padding-right: 70px; }
+.cc_article:last-child { border-bottom: 0; }
+.cc_articleimg { width: 100%; display: block; margin-bottom: 20px; }
+.cc_article.mrr .lnk_pdf { position: Absolute; top: 50%; margin-top: -30px; display: block; right: 0px; color: #7b7b7b; font-size: 12px; }
+.cc_article.mrr .lnk_pdf:before { content: ''; position: relative; border: 1px #cdcdcd solid; width: 33px; height: 42px; border-radius: 2px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -242px -320px; margin: 0 auto; margin-bottom: 5px; display: block; }
+.contact_wrap { max-width: 980px; margin: 0 auto; }
+.contact_wrap>.mn_h1 { font-size: 26px; }
+.cont_box { border: 1px #cdcdcd solid; position: relative; text-align: left; }
+.cont_box:before { content: ''; left: 50%; top: 0; bottom: 0; background: #cdcdcd; width: 1px; position: absolute; display: block; }
+.cont_box1::before { background: none !important }
+.cont_box .col-sm-6 { padding: 15px; }
+.req { background-image: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/req.png); background-position: 2px 2px; background-repeat: no-repeat; }
+.findcmp_srchwrap { position: relative; padding-right: 48px; }
+.findcmp_srchwrap .btn_find { position: absolute; right: 0px; top: 0; width: 38px; height: 38px; background: #92a732 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) -238px -264px no-repeat; border: 2px #92a732 solid; }
+.pagination.nomrgn { margin: 0; }
+.find_rowfrst .find_txt { font-size: 20px; color: #5f328b; padding-top: 5px; padding-bottom: 5px; }
+.findcmp_btmwrap { background: #f7f8fb; border-top: 1px #e6e6e6 solid; padding: 10px; color: #424242; line-height: 20px; }
+.findcmp_btmwrap .fc_btxt { padding: 5px 0px 0px 0px; }
+.findcmp_btmwrap .btn_purple { border: 1px #5e4fa2 solid; padding: 3px 8px; background: none; color: #fff !important; border-radius: 2px; margin: 0; }
+.facet_h { font-size: 18px; color: #737373; margin-bottom: 10px; padding: 0px 15px; font-weight: 400; position: relative; }
+.ftchk_wrap { border-bottom: 1px #e8e8e8 solid; padding: 8px 45px 8px 15px; position: relative; }
+.ftchk_wrap .checkbox { margin: 0; }
+.ftchk_wrap a { position: absolute; right: 15px; top: 10px; color: #673074; text-decoration: underline; font-size: 13px; }
+.findrec_fltr { border-bottom: 1px #e8e8e8 solid; padding: 8px 45px 8px 15px; position: relative; }
+.findrec_fltr .checkbox { margin: 0; }
+.findrec_fltr a.num { position: absolute; right: 15px; top: 10px; color: #673074; text-decoration: underline; font-size: 13px; }
+.fct_specify { padding: 0px 15px 15px 15px; }
+.selectpicker { position: relative; }
+.find_rech { font-size: 32px; color: #4e4e4e; text-align: right; font-weight: 500; text-transform: uppercase; padding: 25px 0px 0px 0px; }
+.find_rech.wlkn { padding-top: 5px; }
+.wlkn_date { font-size: 18px; color: #ff7800; }
+.pdtb10 { padding: 10px 0px 1px 0px; }
+.facet_collapse { position: absolute; width: 20px; height: 20px; cursor: pointer; right: 10px; top: 0px; }
+.facet_collapse:before, .facet_collapse:after { content: ''; background: #b2b2b2; position: absolute; cursor: pointer; transition: all 0.3s linear; }
+.facet_collapse:hover:before, .facet_collapse:hover:after { background: #660099; }
+.facet_collapse:before { width: 14px; height: 4px; left: 2px; top: 8px; }
+.facet_collapse:after { width: 4px; height: 14px; top: 3px; left: 7px; }
+.facet_collapse.in:after { height: 4px; top: 8px; }
+.save_btn.btn-block { padding: 7px 0px; }
+.walkin_lnk { padding: 10px 15px; border-bottom: 1px #e8e8e8 solid; color: #424242; display: block; position: relative; }
+.walkin_lnk:last-child { border: 0; }
+.walkin_lnk:hover, .walkin_lnk.active { text-decoration: none; background: #f3f3f3; }
+.walkin_lnk.active:after { content: ''; position: absolute; width: 0; height: 0; right: 0px; border-color: transparent transparent transparent #a7a7a7; border-width: 5px; border-style: solid; top: 12px; }
+.walkin_box { border: 1px #f0f0f0 solid; display: block; height: 190px; margin-bottom: 20px; }
+.walkin_box:hover { box-shadow: 0px 0px 2px #999; }
+.walkin_box.blue { background: #e6fefb; box-shadow: 0px 0px 8px #dadada; }
+.walkin_box.yellow { background: #feffe8; }
+.walkin_box .wlkn_h { height: 48px; border-bottom: 1px #e8e8e8 solid; padding: 5px 10px; font-size: 13px; color: #626161; overflow: hidden; line-height: 19px; }
+.walkin_box .wlkn_h.clogo { position: relative; padding-left: 110px; }
+.walkin_box .wlkn_h img { position: Absolute; left: 5px; width: 96px; height: 36px; top: 5px; }
+.wlkn_cont { padding: 10px 8px; }
+.ovrflow { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.walkin_ad { height: 190px; margin-bottom: 20px; text-align: center; }
+.walkin_ad a { display: inline-block; height: 100%; vertical-align: middle; }
+.walkin_ad a img { vertical-align: middle; max-height: 290px; max-width: 261px; }#fresher_ad{ height:240px; }
+#fresher_ad iframe [title~=Advertisement] { width:100%!important; overflow:hidden;}#fresher_ad iframe img{ width:100%!important;}
+.mn_h1 .cj_btn, .cj_btn { display: inline-block; border: 1px #98b011 solid; color: #98b011; font-size: 18px; padding: 5px 20px; border-radius: 20px; margin: 0 10px 10px 0; font-weight: 300; transition: all 0.3s ease; }
+.inlineblock { display: inline-block; }
+.mn_h1 .cj_btn:hover, .cj_btn:hover { background: #98b011; color: #fff; text-decoration: none; }
+.carrrerSection .carPaid { padding: 0; background: #FFF; margin-bottom: 30px; -webkit-box-shadow: 0 2px 2px 1px rgba(0,0,0,.2); -moz-box-shadow: 0 2px 2px 1px rgba(0,0,0,.2); box-shadow: 0 2px 2px 1px rgba(0,0,0,.2) }
+.carrrerSection h3 { text-align: center; margin: 20px 0 5px; font-size: 26px; font-weight: 400; color: #333 }
+.carrrerSection h6 { text-align: center; margin: 0 0 20px; font-size: 15px; font-weight: 400; color: #7a787b }
+.carrrerSection .img { width: 100%; height: 90px }
+.carrrerSection .pic1, .carrrerSection .pic2, .carrrerSection .pic3, .carrrerSection .pic4 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/homepage/cs_img.jpg) no-repeat #7e8894 }
+.carrrerSection .pic2 { background-color: #c7ccdf; background-position: 0 -180px }
+.carrrerSection .pic3 { background-position: 0 -90px; background-color: #b0a2bb }
+.carrrerSection .pic4 { background-color: #a4a2a3; background-position: 0 -270px }
+.carrrerSection .cartxt { font-size: 14px; color: #424242 }
+.carrrerSection .cartxt p { line-height: 19px; margin-bottom: 10px; min-height: 57px }
+.carrrerSection .cartxt a { display: block; font-size: 18px; color: #FFF; background: #ff7e00; border: 2px dotted #FFF; text-align: center; padding: 10px; font-weight: 500; text-decoration: none }
+.carrrerSection .cartxt a.color839a1b { background: #839a1b }
+.carrrerSection .cartxt a.color531680 { background: #531680 }
+.carrrerSection .cartxt a.colore5073e { background: #e5073e }
+.carrrerSection .cartxt span { margin-bottom: 5px; display: block }
+.carrrerSection .cartxt span a { color: #642891; font-size: 17px; background: 0 0; text-align: left; border: 0; padding: 0; font-weight: 500 }
+.carrrerSection .cartxt { padding: 15px }
+.carrrerSection .requestCss { width: 450px; margin: 0 auto 30px }
+.carrrerSection .requestCss .input { width: 262px }
+.carrrerSection .requestCss input { width: 100%; border: 1px solid #5e50a1; border-radius: 5px 0 0 5px; color: #515151; padding: 10px; font-size: 14px }
+.carrrerSection .requestCss input.error { border: 1px solid red }
+.carrrerSection .requestCss .but { width: 185px }
+.carrrerSection .requestCss button { width: 100%; border: 1px solid #5e50a1; border-radius: 0 5px 5px 0; color: #FFF; background: #5e50a1; padding: 8px 0 7px; font-size: 18px; font-weight: 400 }
+.careerPad { padding-right: 35px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/homepage/careerBor.gif) right center no-repeat }
+.career4box { padding-right: 0; background: 0 0; padding-left: 5px }
+.career4box .row:first-child { margin-left: 0 }
+.career4box .row { width: 50%; display: inline-block; vertical-align: top; margin-left: 15px }
+.career2box { background: 0 0; padding: 0 }
+.career2box .row { width: 50%; margin: 0 auto }
+.cj_row { position: relative; }
+.cj_row:before, .cj_row:after { content: ''; position: absolute; top: 0; bottom: 0; width: 1px; background: #eaeaea; display: block; }
+.cj_row:before { left: 33.333% }
+.cj_row:after { left: 66.666% }
+.mob_textwrap { position: relaive; padding-left: 60px; }
+.mob_textwrap .mob_tcode { position: absolute; text-align: center; width: 50px; left: 5px; background: #fff; padding-left: 5px; padding-right: 5px; }
+input[type="file"] { cursor: pointer; border-radius: 2px; border: 1px #ccc solid; width: 100%; padding: 7px 9px; background: #fff; color: #bcbcbc; margin: 0; outline: 0; }
+.rg_frmrow .rupload_btn { width: 290px; }
+#ErrorMsgOnEditPage .form-control { border-radius: 2px; font-size: 16px; box-sizing: border-box; margin: 5px 0; padding: 8px 12px; height: auto; box-shadow: none !important; color: #555; width: 100%; background-color: #fff; border: 1px solid #ccc; }
+#ErrorMsgOnEditPage #txt { margin-bottom: 5px; }
+#ErrorMsgOnEditPage #field { margin-bottom: 5px; }
+#ErrorMsgOnEditPage #field span { margin-top: 5px; }
+.res_namewrap { border: 1px #ccc solid; padding: 10px; position: relative; padding-right: 50px; }
+.res_namewrap .rbtn_edit { right: 5px; }
+.reg_captcha { background: #f8f8f8; padding: 10px; border: 1px #ccc solid; }
+.reg_captcha .reg_cimg { width: 165px; display: inline-block; height: 56px; }
+.reg_captcha .reg_ctxt { padding: 9px 0px 0px 0px; }
+.reg_copts { padding-top: 9px; }
+.reg_copts a { display: inline-block; width: 28px; height: 23px; margin-top: 9px; margin-left: 8px; }
+.reg_copts a.refresh { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -189px -409px; }
+.reg_copts a.info { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -209px -349px; width: 24px; }
+.col.brdrtp { border-top: 1px #c7c7c7 solid; padding-top: 10px; }
+.reg_shead { font-size: 26px; text-transform: uppercase; font-weight: 500; color: #000; }
+.prpl { color: #683996; }
+.reg_emptxt { font-size: 16px; background: #f9f2ff; border: 1px #ccc solid; padding: 15px; }
+.reg_emptxt .bld { font-size: 20px; }
+.app_conwrap { margin-left: 0; margin-right: 0; }
+.app_conwrap .col { padding: 0; }
+.app_conwrap .col-md-3 { padding: 10px; }
+.app_conwrapinnr { position: relative; }
+.app_conwrapinnr:after, .app_conwrapinnr:before { content: ''; position: absolute; top: 0; bottom: 0; width: 1px; background: #ccc; }
+.app_conwrapinnr:before { left: 50%; }
+.app_conwrapinnr:after { left: 75%; }
+.app_conjobs { padding: 0; }
+.app_conmain { min-height: 144px; background: #ecf7d4; padding: 30px 15px 30px 50px; position: relative; }
+.app_conmain:before { content: ''; position: absolute; left: 13px; top: 30px; width: 27px; height: 28px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -208px -264px; }
+.app_conh { font-size: 20px; color: #18a479; }
+.app_jobh { padding: 5px 10px 15px 10px; color: #683997; font-size: 18px; font-weight: 400; }
+.app_jobh.applyall { padding-right: 90px; position: relative; }
+.app_jobh.applyall .btn-brdr { position: absolute; right: 10px; top: 0px; }
+.sc_ico { padding-top: 15px; }
+.sc_ico.share { padding: 5px 17px; }
+.sc_ico>a { display: inline-block; width: 26px; height: 26px; margin-right: 5px; }
+.sc_ico.share>a { margin-right: 13px; }
+.sc_ico a.fb { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -163px -381px; }
+.sc_ico a.tw { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -191px -381px; }
+.sc_ico a.gp { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -219px -381px; }
+.sc_ico a.in { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -247px -381px; }
+.fb_likewrap { display: inline-block; width: 50px; overflow: hidden; position: relative; top: -3px; height: 20px; }
+.cj_thwrap { position: relative; font-size: 13px; color: #fff; background-color: #61497c; }
+.cj_thwrapimg img { width: 50% !important; margin: 0 auto; }
+.cj_thwrap img { display: block; width: 100%; height: 198px; }
+.cj_thwrap img.womn { width: auto; margin: 0 auto; }
+.cj_thwrap .cj_thtxt { position: Absolute; left: 10px; bottom: 10px; }
+.cj_thwrap .cj_thtxt .bld { font-size: 16px; }
+.cj_thwrap .cj_thtxt .bld .seo { font-size: 16px; }
+.cj_thwrap .cj_thtxt .bld .seo_subtext { font-size: 13px; }
+.cj_thmain .savedjoblnk { padding: 0; }
+.premiumjobs_main { border: 1px solid #c6c6c6; padding: 10px; }
+.vertical_tabs { min-height: 380px; }
+.vertical_tabs .col { padding: 0; }
+.vertical_tabsmenu .vtab_lnk { display: block; padding: 10px 5px; border-bottom: 1px #eaeaea solid; color: #6f6f6f; background: #fff; text-align: center; cursor: pointer; }
+.vertical_tabsmenu .vtab_lnk:hover { color: #f27200; }
+.vertical_tabsmenu .vtab_lnk.active { border-left: 2px #f27200 solid; color: #f27200; position: relative; }
+.vertical_tabsmenu .vtab_lnk.active:after { top: 0; bottom: 0; content: ''; position: absolute; background: #fff; right: -1px; width: 2px; z-index: 2; }
+.vertical_tabcont { padding: 25px; border-left: 1px #eaeaea solid; display: none; }
+.vertical_tabcont.active { display: block; }
+.vertical_tabcont img { display: block; outline: 0; }
+.cj_jobwrap { border-right: 1px #eaeaea solid; }
+.carousel-inner .col-sm-6 { padding: 5px; }
+.carousel-inner .col-sm-6 img { display: block; margin: 0 auto; width: 100%; max-width: 110px; }
+#emp_logo .row { margin: 0; }
+#emp_logo .carousel-control { position: absolute; width: 18px; height: 16px; top: -48px; }
+#emp_logo .carousel-control.left { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -177px -321px; right: 24px; left: inherit; }
+#emp_logo .carousel-control.right { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -199px -321px; right: 1px; left: inherit; }
+.w_680 { max-width: 680px; margin: 0 auto; padding: 0px 10px; }
+#good_toread .carousel-control { position: absolute; width: 18px; height: 16px; top: inherit; bottom: -40px; }
+#good_toread .carousel-control.left { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -177px -321px; margin-left: -25px; left: 50%; }
+#good_toread .carousel-control.right { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -199px -321px; margin-right: -25px; right: 50%; }
+.pend_tabwrap.btn-sm { padding: 10px 0px; }
+.pend_tabwrap.btn-sm .btn { font-size: 14px; padding: 5px 10px; }
+.alert-mob { border: 1px #ff0000 solid; padding: 10px 10px 10px 25px; position: relative; color: #ff7200; font-size: 14px; font-weight: 400; display: inline-block; height: 38px; }
+.alert-mob.success { border: 1px #15cb6f solid; color: #15cb6f; }
+.alert-mob:before { content: ''; position: absolute; left: 5px; top: 10px; width: 17px; height: 17px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -4px -34px; }
+.alert-mob.success:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -27px -34px; }
+.placeholder_cmmn { position: relative; }
+.placeholder_cmmn label { cursor: text; position: absolute; left: 15px; top: 12px; font-size: 16px; color: #555; font-weight: 300; line-height: 14px; transition: all 0.2s linear; }
+.placeholder_cmmn input:focus ~ label, .placeholder_cmmn input.filled ~ label, .placeholder_cmmn .error:focus ~ label, .select_label span, .multiselect_label em { background: #ddd; padding: 1px 4px; color: #757575; border-radius: 12px; font-size: 10px; top: -9px; left: 14px; }
+.select_label, .multiselect_label { position: relative; }
+.select_label span, .multiselect_label em { position: absolute; font-style: normal; z-index: 5 }
+.error_box, .cal_wrap .form-control.error_box { border-bottom: 1px #f00 solid !important; background-color: #f9f2f4 !important; }
+.error_txt { color: #f00; font-size: 10px; }
+.reg_or_text { display: inline-block; width: 32px; height: 32px; border-radius: 50%; border: 1px #c4c4c4 solid; color: #7d7d7d; text-align: center; font-size: 14px; line-height: 32px; position: relative; margin: 4px 5px 0px 5px; }
+.reg_frmtab { background: #f7f8fb; padding: 20px 15px; font-size: 20px; color: #5e4fa2; font-weight: 400; position: relative; border: 1px #eaeaea solid; border-bottom: 0; }
+.reg_frmtab.mrgnbtm30 { border-bottom: 1px #eaeaea solid; }
+.reg_frmtab.small { font-size: 16px; color: #000; padding: 10px 15px; }
+.reg_frmtab .reg_tabexpand { position: absolute; right: 15px; width: 24px; height: 24px; cursor: pointer; border: 2px #828282 solid; top: 50%; margin-top: -13px; border-radius: 50%; }
+.reg_frmtab .reg_tabexpand:before { width: 12px; height: 2px; background: #828282; content: ''; left: 4px; top: 50%; margin-top: -1px; position: Absolute; }
+.reg_frmtab .reg_tabexpand.collapsed:after { height: 12px; width: 2px; background: #828282; content: ''; top: 4px; left: 50%; margin-left: -1px; position: Absolute; }
+.reg_img { width: 80px; height: 80px; border: 1px #ccc solid; }
+.msi_sh { font-size: 44px; color: #fff; font-weight: 300; }
+.msi_stxtsmall { font-size: 24px; font-weight: 300; color: #fff; }
+.msi_logo { padding-bottom: 20px; }
+.msi_logo img { width: 100%; margin: 0 auto; max-width: 324px; }
+.msi_twht { color: #fff; }
+#msi_slider .carousel-indicators { left: inherit; right: 10px; margin-left: inherit; bottom: -80px; width: auto; }
+.msi_frame { width: 100%; overflow: scroll; height: 500px; }
+.msi_subheader { background: #fff; padding: 10px; box-shadow: 0 5px 5px -5px #aaa; }
+.msi_subheaderinnr { max-width: 1300px; margin: 0 auto; }
+.sc_ico.msi_share { padding-top: 3px; text-align: right; }
+.sc_ico.mei_share { padding: 8px 10px 5px 10px; background: #fff; border-radius: 3px; display: inline-block; }
+.txt_inline { display: inline-block; position: relative; top: -8px; margin-right: 8px; }
+.msi_btn { background: #f2f2f2; padding: 5px 8px; border: 1px #cacaca solid; display: inline-block; font-size: 16px; border-radius: 2px; }
+.msi_btn a { color: #4a2569; text-decoration: underline; }
+.msi_btnor { margin-left: 8px; top: 0; font-size: 16px; }
+.exp_speaktxt { font-size: 26px; text-align: center; max-width: 500px; margin: 0 auto; color: #fff; }
+.img_block { display: block; outline: 0; width: 100%; }
+.exp_vidwrap { height: auto; position: relative; overflow: hidden; }
+.exp_vidwrapimg { width: 100%; display: block; outline: 0; border: 0; }
+.exp_vidwrap #main_frame { position: absolute; z-index: 9; width: 100%; height: 100%; border: 0; overflow: hidden; top: 0; left: 0; }
+.exsmall_vidthumb { display: block; background: #f2f2f2; border-radius: 3px; overflow: hidden; }
+.vsmall_thumb { margin-bottom: 8px; position: relative; }
+.vsmall_thumb img { width: 100%; display: block; }
+.exsmall_vidthumb:hover, .exsmall_vidthumb.active { box-shadow: 0 0 4px #343434; text-decoration: none !important; }
+.vmsall_pbtn { position: absolute; left: 0; right: 0; margin: 0 auto; top: 50%; margin-top: -13px; width: 38px; height: 26px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -123px -380px; transition: background 0.3s ease; }
+.exsmall_vidthumb:hover .vmsall_pbtn, .exsmall_vidthumb.active .vmsall_pbtn { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -123px -406px; }
+.exsmall_vidthumb .exsmall_vidtxt { color: #83818a; padding: 5px; text-decoration: none !important; }
+.tab-pane.nopadd { padding-top: 0px; padding-bottom: 0; }
+.tab-pane.nopadd .vertical_tabcont { padding: 15px; }
+.vertical_tabsmenu.job_Skill .mn_h1 { padding: 15px 15px 10px 15px; margin-bottom: 0; }
+.vertical_tabsmenu.job_Skill .vtab_lnk { text-align: left; padding: 10px 15px; }
+.jobsby .vertical_tabs .col.col-md-4 { padding: 0px 10px; }
+.txt_white { color: #fff; }
+.txt_black { color: #000; }
+.txt_purple { color: #5e4fa2; }
+.job_by_section.max_height { max-height: 625px; overflow: hidden; }
+.footer_desktop { background: #eaeaea; }
+.footer_max { max-width: 1300px; margin: 0 auto; padding: 10px; }
+.footer_max.nopadd { padding: 0px 10px; }
+.footer_blocks { position: relative; display: inline-block; margin: 5px; color: #717171; padding: 5px 5px 5px 35px; }
+.footer_blocks:before { position: absolute; width: 26px; height: 26px; content: ''; left: 0; top: 50%; margin-top: -13px; }
+.footer_blocks.ico1:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -50px -380px; }
+.footer_blocks.ico2:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -76px -380px; }
+.footer_blocks.ico3:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -50px -406px; }
+.footer_expand { width: 100%; max-width: 38px; margin: 0 auto; height: 38px; position: relative; background: #ff8400; cursor: pointer; }
+.footer_expand:before { content: ''; position: absolute; width: 20px; height: 19px; left: 0; right: 0; margin: 0 auto; top: 50%; margin-top: -10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -78px -410px; }
+.footer_expand.expanded { background: #ababab; }
+.footer_expand.expanded:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -99px -410px; }
+.nocolpadd .col { padding: 0; }
+.footer_lnkwrap { background: #ffffff; border-top: 1px #dbdbdb solid; border-bottom: 1px #dbdbdb solid; padding: 8px; }
+.footer_lnkwrap a { display: inline-block; color: #424242; margin: 5px 10px 5px 10px; white-space: nowrap; }
+.footer_categories { background: #eaeaea; }
+.cell_brdr { border-left: 1px #e0e0e0 solid; border-right: 1px #e0e0e0 solid; }
+.table_footer { border: 0; margin: 0; }
+.table_footer td { border-top: 0 !important; padding: 0px 15px 15px 15px !important; }
+.footer_h { font-size: 16px; font-weight: 500; color: #000; }
+.f_lnkwrap { padding: 8px 0px; word-wrap: break-word; }
+.footer_bottom { background: #2b172f; }
+.copyright_txt { color: #bbbbbb; font-size: 13px; padding: 6px 0px 5px 20px; }
+.footer_scwrap { padding-right: 10px; text-align: right; height: 26px; }
+.footer_scwrap .footer_sctxt { display: inline-block; line-height: 26px; margin-right: 10px; color: #bbbbbb; font-size: 13px; position: relative; top: -9px; }
+.footer_scwrap a { display: inline-block; width: 26px; height: 26px; margin-right: 5px; opacity: 0.5; filter: alpha(opacity=50); }
+.footer_scwrap a:hover { opacity: 1; filter: alpha(opacity=100); }
+.footer_scwrap a.ico1 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat 0px -432px; }
+.footer_scwrap a.ico2 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -26px -432px; }
+.footer_scwrap a.ico3 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -52px -432px; }
+.footer_scwrap a.ico4 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -78px -432px; }
+.footer_collapsed { display: none; }
+#adwrappermain { padding: 1px 0px; text-align: center; background: #fff; }
+.adwrapperinnr { display: inline-block; width: 320px; height: 50px; }
+.popover { min-width: 260px; }
+.popover-content { padding: 4px; }
+.popover-content .rec_block .col-xs-4 { padding: 4px; max-width: 74px; }
+.popover-content .rec_block .col-xs-8 { padding: 4px; }
+.popover-content .cmp_block .col-xs-4 { padding: 4px; max-width: 110px; }
+.popover-content .cmp_block .col-xs-8 { padding: 4px; }
+.rec_popimgmain { padding: 0px 11px 10px 11px; }
+.rec_popimgmain .rec_popimgwrap { margin: 5px; width: 45px; height: 45px; }
+.rec_popimgmain .rec_popimgwrap img { display: block; width: 100%; height: 100%; margin: 0; }
+.cmp_popimgmain { padding: 0px 11px 10px 11px; }
+.cmp_popimgmain .cmp_popimgwrap { margin: 6px; width: 80px; height: 29px; }
+.cmp_popimgmain .cmp_block .cmp_jobs { font-size: 11px; }
+.cmp_popimgmain .cmp_popimgwrap img { display: block; width: 100%; height: 100%; margin: 0; }
+.app_jobh.applyall.ondash_board { padding: 10px 120px 20px 0px; color: #92a732; }
+.app_jobh.applyall.ondash_board .btn-brdr { top: 4px; background: #92a732; border: 1px #92a732 solid; right: 0; float: right; }
+.app_jobh.applyall.ondash_board .btn-brdr:hover { color: #92a732; background: #fff; }
+.visible-560 { display: none; }
+.cn_itemwrap.my_cn .mn_bibtn { position: absolute; right: 0; top: 5px; }
+.datepicker { min-width: 260px; z-index: 90; }
+.list-to-filter .form-group .checkbox, .list-to-filter .form-group .radio { position: relative }
+.list-to-filter .form-group .checkbox input, .list-to-filter .form-group .radio input { position: absolute; display: block; top: 0; bottom: 0; left: 0; right: 0; margin: 0; padding: 0; width: 100%; height: 100%; }
+.sq_frmwrap select.form-control { padding: 10px 12px; height: 45px; background: #624480; border: 1px #755e8c solid; color: #9d90ae; }
+.sq_frmwrap select.form-control { padding: 10px 12px; height: 45px; background: #FFF; border: 1px #755e8c solid; color: #9d90ae; }
+.sq_frmwrap .salaryinfo select.form-control { padding: 5px 5px; height: 30px; font-size: 14px; background: #FFF; border: 1px #bfbfbf solid; color: #9d90ae; width: 49%; display: inline-block }
+.sq_frmwrap .salaryinfo input.forhalfinput { padding: 5px 5px; height: 38px; font-size: 14px; background: #FFF; border: 1px #bfbfbf solid; color: #9d90ae; display: inline-block }
+.sq_frmwrap .salaryinfo select.form-control option { background: #f5f5f5; border: 1px solid #CCC }
+.sq_frmwrap .salaryinfo .popupsalary { position: absolute; left: 0; z-index: 10; width: 100%; background: #FFF; padding: 10px; display: none; border-radius: 4px; -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175); box-shadow: 0 6px 12px rgba(0,0,0,.175); top: 105% }
+.sq_frmwrap select.form-control { padding: 10px 12px; height: 45px; background: #FFF; border: 1px #755e8c solid; color: #9d90ae; }
+.sq_frmwrap .salaryinfo select.form-control { padding: 5px 5px; height: 30px; font-size: 14px; background: #FFF; border: 1px #bfbfbf solid; color: #333; width: 49%; display: inline-block; font-weight: 300; }
+.sq_frmwrap .salaryinfo select.form-control option { background: #f5f5f5; }
+.sq_frmwrap .salaryinfo .popupsalary { position: absolute; left: 0; z-index: 10; width: 100%; background: #FFF; padding: 3px; display: none; border-radius: 4px; -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175); box-shadow: 0 6px 12px rgba(0,0,0,.175); top: 105% }
+.sq_frmwrap select.form-control:focus { border: 1px #cdcdcd solid; }
+.sq_frmwrap .row { margin: 0px -5px; }
+.sq_frmwrap .row .col { padding: 0px 5px; }
+.sugg_que .cal_wrap { background: #fff !important; border: 1px #755e8c solid !important; }
+.sugg_que .cal_wrap .form-control { padding: 6px 12px; height: 43px; }
+.sugg_que .cal_wrap:focus { border: 1px #cdcdcd solid; }
+.sugg_que .placeholder_cmmn label { color: #9d90ae; top: 16px; }
+.sugg_que .placeholder_cmmn input.form-control:focus ~ label, .sugg_que .placeholder_cmmn input.form-control.filled ~ label, .sugg_que .placeholder_cmmn .error.form-control:focus ~ label { border: 1px #cdcdcd solid; }
+.sugg_que .placeholder_cmmn input.form-control:valid ~ label {
+background: #ddd;
+padding: 1px 4px;
+color: #888;
+border-radius: 12px;
+font-size: 10px;
+top: -9px;
+left: 14px;
+}
+.sugg_que .placeholder_cmmn .dropdown-menu { width: 100% }
+.list-to-filter .form-group .checkbox.custom label { color: #787878; }
+.sugg_que .selectpicker .select_main { background: #FFF; border: 1px #755e8c solid; padding: 10px 12px; height: 45px; }
+.sugg_que .selectpicker .select_main .text { color: #9d90ae; }
+.sugg_que .selectpicker .select_menu { top: 45px; }
+.mrgntp20 { margin-top: 20px; }
+.pfimg_review { position: absolute; bottom: -7px; left: -5px; right: -5px; color: #f00; text-align: center; vertical-align: middle; font-size: 11px; padding: 2px 4px; background: rgba(255,255,255, 0.8); border-radius: 10px; font-weight: 500; }
+.newstickermain { border: 1px #e5e5e5 solid; padding: 10px 10px 10px 90px; position: relative; height: 38px; overflow: hidden; }
+.newsticker_h { position: absolute; background: #e5e5e5; padding: 10px; left: 0; top: 0; }
+.new_wrappermain { position: relative; overflow: hidden; height: 28px; }
+.mei_table { margin-bottom: 0; background: #fff; border: 1px #fff solid; }
+.table-bordered.mei_table>tbody>tr>td { border: 1px #efefef solid; }
+.table-bordered.mei_table>tbody>tr>td:first-child { border-left: none; }
+.table-bordered.mei_table>tbody>tr>td:last-child { border-right: none; }
+.badge_btn { display: block; width: 20px; height: 26px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -105px -433px; transition: all 0.4s ease; position: absolute; top: 5px; right: 50px; }
+.popover.badge_popover { min-width: 110px; max-width: 110px; }
+.badge_btn:hover { background: #fff url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -131px -433px; border-radius: 50%; }
+.public_profile .badge_btn { right: 20px; }
+.bimage_wrap { padding: 4px 5px; border-bottom: 1px #e7e7e7 solid; }
+.bimage_wrap img { display: block; width: 100%; max-width: 86px; }
+.bimage_wrap:last-child { border: 0; }
+.pf_visabtn { margin-right: 10px; }
+.pf_visabtn .btn, .pf_ctcbtn .btn { background: #fff; color: #454545; border-color: #e1e1e1; box-shadow: none; }
+.pf_ctcbtn .btn { padding: 8px 12px; }
+.pf_visabtn .btn.active, .pf_ctcbtn .btn.active { background: #98b011; color: #fff; border-color: #98b011; z-index: 0 }
+.private_noaccess { max-width: 550px; margin: 80px auto; padding: 100px 100px 100px 200px; position: relative; font-size: 30px; color: #db4d00; text-transform: uppercase; font-weight: 400; }
+.private_noaccess:before { content: ''; position: absolute; left: 100px; width: 84px; height: 108px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/private.png) no-repeat center center; top: 50%; margin-top: -54px; }
+.mn_srch_bar { background: #e2e2e2; padding: 10px; border-bottom: 1px #d6d6d6 solid; }
+.mn_srchbarinnr { width: 790px; margin: 0 auto; }
+.mn_srchbarinnr .row .col { padding-left: 5px; padding-right: 5px; }
+#headernav_wrap.srchbar_h .navbar { box-shadow: 0 8px 8px -8px #d0d0d0; }
+.poll-bar .progresswrap { position: relative; padding: 3px 40px 0px 0px; }
+.poll-bar .progress { margin: 0px; position: relative; height: 15px; background: #c3cfd5; border-radius: 5px; }
+.poll-bar .progress-txt { font-size: 14px; color: #282828; position: Absolute; right: 0px; top: 0px; font-weight: 400; text-align: left; width: 34px; }
+.youvideo_container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; margin-bottom: 20px; }
+.youvideo_container iframe, .youvideo_container object, .youvideo_container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+/*analytics*/
+.default_mja { border-right: solid 1px #ddd }
+.default_mja_action .toggle_active { width: 105px; height: 30px; margin-bottom: 10px; }
+.default_mja_action .upload_resume { display: block; position: relative; padding: 0px 5px 0px 25px; font-size: 13px; color: #5c5c5c; line-height: 25px; border: 1px #5c5c5c solid; text-decoration: none !important; border-radius: 5px; width: 132px; margin-right: 5px; }
+.default_mja_action .upload_resume:before { width: 17px; height: 20px; left: 5px; top: 50%; margin-top: -10px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_manage_agent.png) no-repeat 0px -2px; }
+.default_mja_action .up_date { margin-top: 10px; }
+.mja .ico_vresult { width: 21px; height: 21px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_manage_agent.png) no-repeat -24px 0px; display: block; margin-right: 7px }
+.mja .ico_edit { width: 21px; height: 21px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_manage_agent.png) no-repeat -52px 0px; display: block; margin-right: 7px }
+.mja .ico_delete { width: 21px; height: 21px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/icon_manage_agent.png) no-repeat -81px 0px; display: block; }
+.bg_grey { background: #f9f9f9 }
+.create_agent { width: 80%; margin: 0 auto; }
+.heading_cjb { font-size: 18px; margin-bottom: 15px; font-weight: 400; color: #4a4a4a; }
+.cja_question { font-size: 17px; padding: 0px 5px 0px 45px; }
+.cja_question span { font-weight: 400; color: #000; margin-bottom: 10px; display: block }
+.cja_question:before { width: 33px; height: 33px; left: 15px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cja_icon.png) no-repeat 1px 1px; }
+.cja_question_1 { font-size: 17px; padding: 0px 5px 0px 45px; }
+.cja_question_1 span { font-weight: 400; color: #000; margin-bottom: 10px; display: block }
+.cja_question_1:before { width: 33px; height: 33px; left: 15px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cja_icon.png) no-repeat -50px 1px; }
+.cja_question_2 { font-size: 17px; padding: 0px 5px 0px 45px; }
+.cja_question_2 span { font-weight: 400; color: #000; margin-bottom: 10px; display: block }
+.cja_question_2:before { width: 33px; height: 33px; left: 15px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cja_icon.png) no-repeat -100px 1px; }
+/* Toggle */
+.lcs_wrap { display: inline-block; direction: ltr; height: 28px; vertical-align: middle }
+.lcs_wrap input { display: none }
+.lcs_switch { display: inline-block; position: relative; width: 100px; height: 28px; border-radius: 30px; background: #ddd; overflow: hidden; cursor: pointer; -webkit-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; transition: all .2s ease-in-out }
+.lcs_cursor { display: inline-block; position: absolute; top: 3px; width: 22px; height: 22px; border-radius: 100%; background: #fff; box-shadow: 0 1px 2px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.1); z-index: 10; -webkit-transition: all .2s linear; -ms-transition: all .2s linear; transition: all .2s linear }
+.lcs_label { font-family: Arial; font-size: 12px; letter-spacing: 1px; line-height: 18px; color: #fff; font-weight: 700; position: absolute; width: 53px; top: 5px; overflow: hidden; text-align: center; opacity: 0; -webkit-transition: all .2s ease-in-out .1s; -ms-transition: all .2s ease-in-out .1s; transition: all .2s ease-in-out .1s }
+.lcs_label.lcs_label_on { left: -70px; z-index: 6 }
+.lcs_label.lcs_label_off { right: -70px; z-index: 5 }
+.lcs_switch.lcs_on { background: #24b186; box-shadow: 0 0 2px #24b186 inset }
+.lcs_switch.lcs_on .lcs_cursor { left: 75px }
+.lcs_switch.lcs_on .lcs_label_on { left: 10px; opacity: 1 }
+.lcs_switch.lcs_off { background: #b2b2b2; box-shadow: 0 0 2px #a4a4a4 inset }
+.lcs_switch.lcs_off .lcs_cursor { left: 3px }
+.lcs_switch.lcs_off .lcs_label_off { right: 10px; opacity: 1 }
+/* Toggel*/
+
+.cc_header_new { text-align: center; padding: 30px 10px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cc_header.jpg) no-repeat center top; background-size: cover; }
+.cc_header_new h1 { font-weight: 400; color: #fff; font-size: 50px; text-transform: uppercase; margin: 0; transition: height 0.3s ease; }
+.cc_header_new .seobannerheadingcss { font-weight: 400 !important; color: #fff; font-size: 50px; text-transform: uppercase; margin: 0; transition: height 0.3s ease; }
+.cc_header_new .search_article { width: 580px; margin: 0 auto; }
+.cc_header_new .search_article .search { min-width: 100%; padding: 10px; border-radius: 5px 0px 0px 5px; border: 0px; background: #fcfcfc; }
+.cc_header_new .search_article .search_btn { color: #fff; background: #5a3087 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/career_center/icon_search.png) no-repeat 8px 8px; border: solid 1px #d0d0d0; border-left: 0px; width: 100%; border-radius: 0px 5px 5px 0px; padding: 6px 6px 7px 32px; }
+.tips_header { background: #ffa500; color: #fff; font-size: 25px; text-align: center; padding: 15px; text-transform: uppercase; font-weight: 400 }
+.tips_content { background: #ffba00; }
+.tips_content .col-md-4 { text-align: center; }
+.tips_content .col-md-8 ul { text-align: left; color: #000; list-style-image: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_ul_arrow.png); font-size: 17px; padding: 40px 0px; margin-left: 40px; }
+.tips_content .col-md-8 li { line-height: 35px; margin-bottom: 10px; }
+.latest_header { background: #5c3587; color: #fff; font-size: 25px; text-align: center; padding: 15px; text-transform: uppercase; font-weight: 400; }
+.card { display: block; border-top: 5px #fca11e solid; background: #fff; padding: 20px; font-size: 14px; color: #000; position: relative; transition: all 0.3s ease; font-weight: 400; text-decoration: none!important; margin-bottom: 20px; }
+.card .heading { font-size: 16px; margin-bottom: 7px; height: 40px; overflow: hidden }
+.card .content { font-size: 13px; color: #8d8b8b; height: 138px; overflow: hidden }
+.card .content_inner { font-size: 13px; color: #8d8b8b; height: 65px; overflow: hidden }
+.card .read_more { background: #fca11e; color: #fff; display: block; padding: 5px; width: 80px; }
+.tcmplnkwrap_article { border: solid 1px #dddddd; border-bottom: 0px; }
+.tcmplnkwrap_article a { font-size: 14px; font-weight: 400; color: #000; position: relative; padding: 14px 11px; display: block; border-bottom: solid 1px #dddddd; }
+.tcmplnkwrap_article a:hover { background: #fcfcfc; }
+.tcmplnkwrap_article a:after { width: 10px; height: 11px; right: 15px; top: 50%; margin-top: -5px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_inner_arrow.png) no-repeat left top; }
+.tcmplnkwrap_article .active { background: #fcfcfc; }
+.tcmplnkwrap_article .active:after { width: 10px; height: 11px; right: 15px; top: 50%; margin-top: -5px; position: absolute; content: ''; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_inner_arrow_orange.png) no-repeat left top; }
+.cs_lnkicowrap_inner { width: 25px; height: 25px; border: 0px #d1d1d1 solid; position: relative; margin-right: 10px; }
+.cs_lnkico_inner { width: 25px; height: 25px; display: block; border: 0; }
+.cs_linktxt_inner { padding-top: 3px; padding-right: 20px; }
+.tending_articles_inner { background: #fff; min-height: 324px; overflow: hidden; height: 210px; margin-bottom: 30px; box-shadow: 0px 0px 3px #bfbfbf }
+.tending_articles_inner .header { font-size: 20px; color: #fc671e; padding: 10px 10px 10px 60px; font-weight: 400; position: relative; margin-bottom: 10px; }
+.tending_articles_inner .header:before { content: ''; width: 32px; height: 32px; background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_arrow.png) no-repeat; top: 50%; left: 15px; margin-top: -13px; position: absolute; }
+.tending_articles_inner ul { margin: 0px 10px 0px 0px; list-style-image: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/cs_dots.png); font-size: 14px; font-weight: 400; }
+.tending_articles_inner li { line-height: 20px; margin-bottom: 12px; padding-left: 10px; }
+select.combo-style option { background-color: #fff !important }
+.smallerhead { font-size: 16px; color: #333; font-weight: 500; margin-bottom: 20px; }
+/* for year and month popup */
+.select_popup { background: #ffffff none repeat scroll 0 0; border: 1px solid #cecece; display: none; font-size: 12px; height: 250px; left: 0; overflow: auto; position: absolute; top: 33px; width: 100%; z-index: 100000; }
+.select_popup_inner { height: auto; width: 50%; }
+.select_item { cursor: pointer; display: block; padding: 5px; width: 100%;/*width:100% !important;*/
+}
+.select_item .left { color: #4f4f4f; height: 14px; line-height: 12px; margin: 0; overflow: hidden; padding: 0 5px; text-overflow: ellipsis; white-space: nowrap; width: 18%; }
+.left { float: left }
+.clear_left { clear: left; }
+.select_popup { width: 100 !important; font-size: 12px; }
+.select_item left, .select_popup_inner > .left { width: 50% !important; font-weight: 300!important; }
+.select_item > div.left { width: 20% !important; font-weight: 300!important; }
+.left label { width: 100% !important; font-size: 12px; }
+.select_popup { font-size: 12px; }
+.select_popup { background: #ffffff none repeat scroll 0 0; border: 1px solid #cecece; display: none; font-size: 12px; height: 250px; left: 0; overflow: auto; position: absolute; top: 33px; z-index: 100000; width: 98%; margin: 1%; }
+.select_item input { margin: 0 !important; }
+/* share links */
+
+
+#sharelinks { position: relative; }
+.for_sharelink { height: 46px; left: -72px; min-width: 171px; padding: 0; right: 0; top: -41px; width: 171px; }
+#sharelink_style .sharecmmn .sharewrap { display: none; left: 0; position: absolute; top: -6px; z-index: 10; }
+#sharelink_style .sharewrap .sharewrapinnr { padding: 2px; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk { display: block; float: left; height: 28px; margin: 4px; width: 28px; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.fb { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -1px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.fblike { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -36px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.twt { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -72px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.gplus { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -1px -195px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.lin { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -36px -195px; float: left; }
+/* for header from main.css */
+
+#headernew .bg { position: absolute; width: 100%; height: 100%; top: 72px; bottom: 0; left: 0; right: 0; overflow: hidden; background: url(http://media.monsterindia.com/seeker_2014/seeker_2015/header_bg.jpg) center top no-repeat !important; background-size: cover; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.monsterindia.com/seeker_2014/seeker_2015/images/header_bg.jpg', sizingMethod='scale');
+height: 277px; }
+#exp_container .dropdown_smaller_wrapper .right.clip_image { background: none !important; }
+/* for year and month popup */		
+.select_popup { background: #ffffff none repeat scroll 0 0; border: 1px solid #cecece; display: none; font-size: 12px; height: 250px; left: 0; overflow: auto; position: absolute; top: 33px; width: 100%; z-index: 100000; }
+.select_popup_inner { height: auto; width: 50%; }
+.select_item { cursor: pointer; display: block; padding: 5px; width: 100%; }
+.select_item .left { color: #4f4f4f; height: 14px; line-height: 12px; margin: 0; overflow: hidden; padding: 0 5px 0 0; text-overflow: ellipsis; white-space: nowrap; width: 18%; }
+.left { float: left }
+.clear_left { clear: left; }
+.select_popup { width: 100 !important; font-size: 12px; }
+.select_item left, .select_popup_inner > .left { width: 50% !important }
+.left label { width: 100% !important; font-size: 12px; }
+.select_popup { font-size: 12px; }
+.select_popup { background: #ffffff none repeat scroll 0 0; border: 1px solid #cecece; display: none; font-size: 12px; height: 250px; left: 0; overflow: auto; position: absolute; top: 33px; z-index: 100000; width: 98%; margin: 1%; }
+.select_item input { margin: 0 !important; }
+#expSkill1_parent .select_popup { top: 38px; margin: 0; }
+#expSkill1_parent .select_popup_inner .left { width: 50% !important }
+#expSkill1_parent .select_popup_inner .select_item { width: auto !important }
+/* for main homepage search button */
+.frmbtnwrap .btnmain { padding: 0 !important; box-sizing: content-box !important; }
+/* for main walkin job */
+.lookingformore .button { height: 30px !important; width: 179px !important; }
+/* share links */		
+			
+			
+#sharelinks { position: relative; }
+.for_sharelink { height: 46px; left: -72px; min-width: 171px; padding: 0; right: 0; top: -41px; width: 171px; }
+#sharelink_style .sharecmmn .sharewrap { display: none; left: 0; position: absolute; top: -6px; z-index: 10; }
+#sharelink_style .sharewrap .sharewrapinnr { padding: 2px; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk { display: block; float: left; height: 28px; margin: 4px; width: 28px; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.fb { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -1px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.fblike { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -36px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.twt { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -72px -162px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.gplus { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -1px -195px; float: left; }
+#sharelink_style .sharewrap .sharewrapinnr .sclnk.lin { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_2015/tmp_combi.png") no-repeat scroll -36px -195px; float: left; }
+/* for header from main.css */		
+			
+#headernew .bg { position: absolute; width: 100%; height: 100%; top: 72px; bottom: 0; left: 0; right: 0; overflow: hidden; background: url(http://media.monsterindia.com/seeker_2014/seeker_2015/header_bg.jpg) center top no-repeat !important; background-size: cover; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//media.monsterindia.com/seeker_2014/seeker_2015/images/header_bg.jpg', sizingMethod='scale');
+height: 277px; }
+#exp_container .dropdown_smaller_wrapper .right.clip_image { background: none !important; }
+.no_bottompadding { padding-bottom: 0 !important; }
+.pitchingpoint { text-align: center; font-size: 22px; display: inline-block; width: 100%; }
+.pitchborder::before { border-top: 3px solid green; border-left: 3px solid green; content: ""; height: 30px; width: 30px; display: block }
+.pitchborder::after { border-right: 3px solid green; border-bottom: 3px solid green; content: ""; height: 30px; width: 30px; display: block; float: right }
+#monster_nav { z-index: 999 !important }
+#monster_nav .dropdown-menu li, #monster_nav .dropdown-menu div, #monster_nav .dropdown-menu a { box-sizing: border-box !important; }
+.servicebought .btn-group { margin: 10px !important; }
+.servicenames a { margin-left: 0 !important; }
+.rop_morebtns .dropdown-menu a, .servicebought .dropdown-menu a { color: #333; margin-left: 0; }
+.rop_morebtns .dropdown-menu a:hover, .servicebought .dropdown-menu a:hover { color: #fff; background-color: #333; }
+.screen_que { color: #999; }
+div.keyword_sugg a { padding: 5px 10px; display: inline-block; background-color: #f2f5e4; border: 1px solid #ddd; text-decoration: none; margin: 5px; font-size: 12px }
+div.keyword_sugg a.active { background-color: #FF7800; border-color: #FF7800; color: #fff; text-decoration: none; }
+ul.autocomplete_maindiv { border: 1px solid #CCC; width: 100% !important; }
+ul.autocomplete_subdiv { width: 98.5% !important; margin: 0; padding: 0; list-style-type: none; background: #fff; }
+ul.autocomplete_subdiv li { width: 100%; padding: 0px !important; border-bottom: 0px solid #eee; text-align: left; cursor: pointer; }
+ul.autocomplete_maindiv li div { padding: 8px !important; border-bottom: 0px solid #eee; cursor: pointer; }
+ul.autocomplete_subdiv li.ui-state-active { background-color: #eee !important; border: 0 !important }
+.autocomplete_maindiv li:hover, .autocomplete_maindiv li:hover div, .autocomplete_maindiv li:focus div, .autocomplete_maindiv li:active div { background-color: #eee; }
+{
+background-color:#eee;
+}
+.edit-profile-autocomplete { background-color: #fff; list-style-type: none; }
+ul.edit-profile-autocomplete { margin: 0; padding: 0; width: 32%; height: 200px; overflow: auto; overflow-wrap: break-word; z-index: 6; border: #CCC 1px solid; margin-top: 2px; border-radius: 3px }
+ul.edit-profile-autocomplete li { padding: 0px !important; cursor: pointer; display: block !important }
+ul.edit-profile-autocomplete li div { padding: 8px !important; border-bottom: 0px solid #eee; cursor: pointer; }
+ul.edit-profile-autocomplete li div.ui-state-active { background: #eeeeee!important; border: 0 !important }
+.keyskills ul.ui-autocomplete { border: 1px solid #CCC; width: 100% !important; margin-top: 5px; left: 0 !important }
+.keyskills ul.ui-autocomplete { width: 98.5% !important; margin: 0; padding: 0; list-style-type: none; background: #fff; left: 0 !important }
+.keyskills ul.ui-autocomplete li { width: 100%; padding: 0px !important; border-bottom: 0px solid #eee; text-align: left; cursor: pointer; }
+.keyskills ul.ui-autocomplete li a { padding: 8px !important; border: 0px solid #eee; cursor: pointer; font-size: 14px; color: #555 }
+.keyskills ul.ui-autocomplete li a:hover { padding: 8px !important; border: 0px solid #eee; cursor: pointer; font-size: 14px; color: #555; background-color: #eee !important }
+.keyskills ul.ui-autocomplete li a.ui-state-focus { padding: 8px !important; border: 0px solid #eee; cursor: pointer; font-size: 14px; color: #555; background-color: #eee !important; }
+.viewall, .hideall { color: #333; float: right; padding-bottom: 10px; display: block; cursor: pointer; text-decoration: underline; text-decoration: underline; }
+.white_close, .white_close:hover { color: #fff !important }
+#sal1_parent #sal1_popup { left: -3px; height: auto !important }
+#sal1_parent #sal1_popup .select_item { float: left }
+#sal1_parent #sal1_popup .select_item > div.left { width: auto !important; }
+.edit-profile-autocomplete li:hover div { border: none; }
+#show_search_suggestions { box-shadow: 0px 1px 4px 1px #ccc; }
+.ns_banner_close { position: absolute; right: -50px; }
+#my_conn select.form-control { height: 41px; }
+.dropdown_head { width: 98%; overflow: hidden }
+.article_drop { overflow-x: scroll; }
+.open > .article_drop > li > a { overflow: hidden; }
+.sponsor_result { position: relative; margin-bottom: 25px; background-color: #fcfedd; }
+.sponsor_result .sponsor_result_title { position: absolute; top: -15px; padding: 3px; border: 1px solid #eee; border-radius: 3px; background-color: #eee; }
+.logo_wrap_nj { background: url("http://media.monsterindia.com/seeker_2014/social/default_clogo.jpg") no-repeat scroll left top; height: 40px; width: 110px; }
+.rp_wrap_nj { background: url("http://media.monsterindia.com/seeker_2014/social/default_clogo.jpg") no-repeat scroll left top; height: 70px; width: 70px !important; }
+.logo_wrap_nj img, .rp_wrap_nj img { width: 100%; height: 100%; }
+.bold { font-weight: 500;}
+.double_dropdown { background-color: #fff; overflow: auto; padding: 0; }
+.double_dropdown .facetwiditem label { font-size: 13px; }
+.brdr_right { border-right: 1px solid #eee; }
+.ui-panel-fixed-toolbar { overflow: visible !important; }
+.divider_login { display: inline-block; }
+.cluster_head { font-weight: 500; }
+.font-15 { font-size: 15px !important; }
+.mob_cart_div { width: 56px; display: none }
+.mob_cart_ul { margin-right: 0px !important; position: absolute !important; top: 0px; }
+.mob_cart_ul li { width: 100% !important }
+.jd_rate_que { float: left; padding: 0 10px 0 0; }
+.nopadding { padding: 0 !important }
+.internationaljobs { display: block; }
+/* centered columns styles */
+.row-centered { text-align: center; }
+.col-centered { display: inline-block; float: none; /* reset the text-align */
+text-align: left; /* inline-block space fix */
+margin-right: -4px; }
+#SignUp .modal-content { background: #FFFFFF; border-radius: 5px; width: 830px; }
+#SignUp .modal-dialog { border-radius: 5px; width: 830px; }
+#SignUp .pad20 { padding: 20px 0px; }
+#SignUp h1 { font-size: 24px; color: #5e4fa2; text-align: center; margin-top: 0px; }
+#SignUp .wlk_n { color: #000000; border-radius: 0px 5px 5px 0px; background: #fff; box-shadow: 0px 3px 6px rgba(0,0,0,0.1); padding: 0px; }
+#SignUp .htxt { font-size: 16px; color: #5e4fa2; font-weight: 500; }
+#SignUp .pad_lr { padding: 0px 5px!important; }
+#SignUp .formsu { padding: 30px; margin-bottom: 0px; }
+#SignUp .form-control { border-radius: 2px; font-size: 14px; padding: 2px 12px; height: 27px; box-shadow: none !important; }
+#SignUp .placeholder_cmmn label { cursor: text; position: absolute; left: 15px; top: 7px; font-size: 14px; color: #555; font-weight: 300; line-height: 14px; transition: all 0.2s linear; }
+#SignUp .modal-body { position: relative; padding: 0px; }
+#SignUp .modal-body .close .close_button { background: url(../../images/icon_close.png) no-repeat; right: 2px; top: -14px; width: 32px; height: 32px; position: absolute; }
+#SignUp .wlkn_cont { padding: 10px 30px; }
+#SignUp hr { background: #92a732; }
+/*vibhav*/
+
+
+
+
+
+.tooltip { z-index: 10 }
+.select2-container .select2-choice > .select2-chosen { margin-top: 12px; }
+#select2-chosen-1, #select2-chosen-2, #select2-chosen-3 { margin-left: 2px; }
+.select_popup_inner .top_height { width: 94% !important; margin-left: 10px !important }
+#PLACEHOLDER_combo_location .select2-container #select2-chosen-1, #PLACEHOLDER_combo_nationality .select2-choice #select2-chosen-1 { margin-left: 32px; }
+#main_form .rg_frmfieldwrap { padding: 5px 0px; }
+#main_form .checkwrap { text-align: left }
+#main_form .ui-datepicker .ui-datepicker-title { margin: 0; line-height: 0; text-align: center; }
+#main_form .ui-datepicker select.ui-datepicker-month { width: 48% }
+#main_form .ui-datepicker select.ui-datepicker-month, #main_form .ui-datepicker select.ui-datepicker-year { margin-right: 0 }
+#main_form .rg_frmrow.closewrap .close_addmore { right: 25px }
+#main_form .daterangepicker.dropdown-menu { z-index: 98 }
+#rtitle .ugg_que .sq_frmwrap #expYrMonth_popup { margin: 0 !important; width: 83% !important }
+#rtitle .ugg_que .sq_frmwrap #expYrMonth_popup .select_item.left { width: 50% !important; color: #424242 }
+#rtitle .ugg_que .sq_frmwrap #expYrMonth_popup .select_item > div.left { width: 25px !important; }
+.func_mob .dropdown-menu { z-index: 10 !important }
+.profile_year_exp #expYrMonth_popup { z-index: 10 !important; margin: 0 !important }
+.sq_frmwrap #expYrMonth_popup { z-index: 10; margin: 0; top: 44px; color: #000 }
+.sugg_que .sq_frmwrap .select_main span.text { float: left }
+.media img { padding: 3px; border: 2px solid #f8f6f6; float: left; margin-right: 10px; margin-bottom: 20px; margin-left: 10px; }
+.tm { margin-bottom: 0px; clear: both; }
+.media { color: #000; font-weight: 300; }
+.media h3 { font-size: 16px; color: #000; font-weight: 400; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-bottom: 5px; margin-top: 0; }
+.bubble { position: relative; width: 100%; box-sizing: border-box; padding: 20px; background: #f8f6f6; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; line-height: 21px; margin-bottom: 50px; }
+.bubble:after { content: ''; position: absolute; border-style: solid; border-width: 0 12px 12px; border-color: #f8f6f6 transparent; display: block; width: 0; z-index: 1; top: -12px; left: 73px; }
+.media-body em { display: block; line-height: 17px; font-size: 12px }
+footer .footer_desktop div { box-sizing: border-box !important; margin: 0 auto; }
+.serachjoblnk .jtitle { font-size: 14px; color: #5d5d5d; font-weight: 400; width: 100%; display: inline-block; }
+.serachjoblnk .jtitle .seotitle { font-size: 14px; color: #5d5d5d; font-weight: 400; margin: 0 !important; float: left }
+.serachjoblnk .jtitle .title_in { float: none; margin-right: 20px; cursor: pointer; }
+.serachjoblnk .jtitle .title_in.bold {font-size:15px;}
+.serachjoblnk .jtxt { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 5px; font-size: 13px; }
+/************************* COMPILANCE MESSAGE *****************************/
+.comp_status { padding: 10px; text-align: right; border-top: 0px solid #ccc; margin-bottom: 20px; }
+.comp_status span, .comp_status a { font-size: 11px; }
+.comp_status a { color: #ff7836; text-decoration: underline; font-weight: 500; font-size: 13px; text-decoration: none; text-transform: uppercase; }
+.comp_status .pull-right:before { position: Absolute; content: ''; width: 18px; height: 18px; top: 0px; left: -10px; }
+.comp_status .pull-right.nvrfd:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -3px -33px; }
+.comp_status .pull-right { position: relative; text-align: left; padding-left: 22px; }
+.cntd_item_comp { position: relative; line-height: 26px; color: #424242; white-space: nowrap; text-overflow: ellipsis; color: #424242; font-size: 14px; margin-bottom: 10px; }
+#compil .tooltip { z-index: 999; position: absolute; top: 15px !important; left: -231px !important; }
+#hello .tooltip-arrow, .mn-lnk + .tooltip { border-bottom-color: #ccc !important; left: 91.3672% !important; }
+.mn-lnk + .tooltip > .tooltip-inner { background-color: #fff; color: #454545; max-width: 305px; border: 1px solid #ccc; font-size: 15px; line-height: 22px; padding: 18px; }
+/**** CHANGED 31st Aug ****************/
+#show_div { color: #ff7836; text-decoration: underline; font-weight: 500; font-size: 13px; text-decoration: none; text-transform: uppercase; float: right; }
+#show_div { color: #ff7836; text-decoration: underline; font-weight: 500; font-size: 13px; text-decoration: none; text-transform: uppercase; float: right; padding-left: 20px; }
+#show_div:before { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) no-repeat -3px -33px; position: Absolute; content: ''; width: 18px; height: 18px; top: 13px; right: 83px; }
+#hello ul { list-style: none; margin: 0px; padding: 0px; }
+#hello ul li { text-align: left; list-style: none; margin: 0px; padding: 5px; font-size: 14px; line-height: 22px; color: #424242; font-weight: 300; text-transform: none; }
+#hello { box-shadow: 0px 0px 3px #bfbfbf; display: block; background: #fffdbc; padding: 15px; z-index: 999; position: absolute; top: 39px !important; right: 15px !important; margin-left: 15px; }
+/**** CHANGED 31st Aug ****************/
+#hello .tooltip-arrow, .mn-lnk + .tooltip { border-bottom-color: #ccc !important; left: 91.3672% !important; top: -16px; border: 8px solid transparent; }
+.small, small { font-size: 85% !important; }
+#ticker1 { border-top: 3px solid orange }
+#ticker1 .bg_btn_normal.active[data-active-class="hgt"], #modal_def .bg_btn_normal.active[data-active-class="hgt"], #modal_def .bg_btn_normal:hover, #ticker1 .bg_btn_normal:hover { background: #5d51a2; color: #FFF; border-radius: 2px; }
+#ticker1 .bg_btn_normal.active[data-active-class="hgt"] span, #modal_def .bg_btn_normal.active[data-active-class="hgt"] span { color: #b4b3b3; display: block; }
+#ticker1 .bg_btn_normal, #modal_def .bg_btn_normal { background: #ffffff; border-radius: 2px; color: #686572; border: #919191 solid 1px; webkit-box-shadow: 0 1px 4px #9da3a3; box-shadow: 0 1px 4px #9da3a3; white-space: inherit !important; }
+#ticker1 .checkbox.custom label { color: #c8c8c8; font-size: 11px; line-height: 3px; padding-left: 25px; z-index: 1; }
+#ticker1 .checkbox.custom label a { color: #a8a8a8 }
+#ticker1 .btn-brdr { background-color: orange; color: #fff; border: none; }
+.orangereal { color: orange }
+#reg_form .col-xs-12 { padding: 0 15px 15px; }
+#reg_form .signup_social a { padding-left: 8px; color: #fff !important; margin: 0px 5px; position: relative; }
+#ticker1 .form-control { border: 1px solid #919191!important; color: #555555; height: 32px; }
+#ticker1 .col { padding: 0px 5px; }
+#ticker1 .padpbttom { padding-bottom: 10px; }
+#ticker1 .pad_top10 { padding-top: 10px; }
+#job_description #ticker1.jd_whitebox { padding-top: 10px; padding-bottom: 10px; background-color: #5E4FA2; }
+#job_description #ticker1 .heading { color: #fff; }
+#ticker1 .radio label { color: #dadada; }
+.hiddeninput { height: 100%; left: 0; opacity: 0; position: absolute; top: 0; width: 100%; }
+.img100 img { width: 100% }
+i { border: solid white; border-width: 0 3px 3px 0; display: inline-block; padding: 3px; }
+#ticker1 .btn-group:hover .btn-block i { border-color: solid #5e4fa2 }
+#right_id { width: auto; top: 67px; }
+#ticker1 .textcenter { text-align: center !important; }
+#ticker1 #showregister { float: none; margin: 0px auto; width: 80% }
+.color999 { color: #a7a7a7; }
+#ticker1 .right { transform: rotate(-45deg); -webkit-transform: rotate(-45deg); }
+#ticker1 .checkbox.custom label::after { background: rgba(0, 0, 0, 0) url("http://media.monsterindia.com/seeker_2014/seeker_responsive/images/check-blue.png") no-repeat scroll 3px 4px; display: block; height: 19px; left: 0; position: absolute; top: 0; width: 19px; }
+.fix_adjust {position: absolute; top:-60px;}
+.positionrelative {position:relative !important;}
+.linkbtn{border-radius:15px; color:#ff7800; text-align:center; padding:10px; display:block; border:1px solid #ff7800 }
+.img100 img{width:100%; height:100%}
+#stopHere {padding-top:20px;}
+
+
+ @media (max-width: 1124px) {
+.navbar-brand { width: 28px; }
+.nav_big .navbar-nav li.dropdown .dropdown-menu { margin-left: -95px }
+}
+ @media (max-width: 1358px) {
+.padd_right30 { padding-right: 15px; }
+}
+ @media (max-width: 1199px) {
+.colonstyle::before { float: none !important }
+.footerlink_pading { padding-left: 10px !important; }
+#ticker1 #showregister { float: none; margin: 0px auto; width: 100% }
+}
+ @media (max-width:1300px) {
+.navbar-header { margin-right: 0px; padding: 9px 12px; }
+.navbar-nav>li>a { padding: 20px 7px; font-size: 12px }
+.nav_big .navbar-nav li.dropdown .dropdown-menu { margin-left: -130px }
+}
+@media (max-width:1280px) {
+.mobiletopbarpf .ico_tab { font-size: 14px; }
+.modified .nav-tabs>li>a { padding: 10px; font-size: 16px; }
+.nav_big .navbar-nav#mnuser_nav { margin-left: 10px; }
+/*analytics*/
+.cc_header.cjobs { padding: 60px 50px; }
+.msi_sh { font-size: 34px; }
+/*analytics*/
+}
+ @media (max-width:991px) {
+.navbar-brand { width: 28px; }
+.nav_big .navbar-nav>li>.dropdown-menu { left: 57px; }
+.create_agent { width: 90%; margin: 0 auto; }
+.mob_cart_div { display: block }
+#monster_nav { height: 300px; }
+}
+ @media (max-width:1130px) {
+.nav_big .navbar-nav li.dropdown .dropdown-menu { margin-left: -69px }
+.nav_big .navbar-nav li.lastdropDownSet .dropdown-menu { margin-left: 0px !important }
+.navbar-nav>li>a { padding: 20px 7px; }
+.job_optwrap .job_optitem { font-size: 11px; margin: 0px 2px; }
+.mobiletopbarpf .ico_tab { font-size: 13px; }
+.rop_ico_block .rop_ico { padding: 0px 8px 0px 32px; }
+.rop_ico_block .rop_stbox { padding: 15px 5px; }
+/* Search Result */		
+.you_searched .col-xs-9 { width: 75% }
+.you_searched .sq_txt { font-size: 15px; }
+.about_recruiter { padding-bottom: 100px }
+#emp_logo .carousel-control { top: -22px; }
+#emp_logo .carousel-control.right { right: 8px; }
+#emp_logo .carousel-control.left { right: 29px; }
+/* Search Result */
+}
+ @media (max-width:1035px) {
+.navbar-nav>li>a { padding: 20px 10px; }
+/*analytics*/
+.cc_header.cjobs { padding: 50px 30px; }
+/*analytics*/
+
+}
+@media (min-width:992px) {
+footer { padding: 0; }
+#headernav_wrap.srchbar_h { height: 120px!important; }
+}
+@media (max-width:991px) {
+.switch_lang_link { display: none }
+.edit-profile-autocomplete { background-color: #fff; list-style-type: none; width: 84% }
+.you_searched .sq_txt { margin-top: 20px; padding-right: 15px; }
+.mn-viewcount { padding: 0px; margin: 0; }
+.mn-viewcount .main_count { margin-right: 0; }
+.mn-viewcount .countmiddle { border-left: 1px #dedede solid; border-right: 1px #dedede solid; }
+.mn-viewcount .col-xs-4 { padding: 10px 0px; margin: 0; }
+.mn-viewcount .txtforsmall, .mn-viewcount .main_count { display: block; text-align: center; }
+.mobiletopbar .row { margin-left: -5px; margin-right: -5px; }
+.mobiletopbar .row .col-xs-3 { padding: 0; }
+.tab-content .tab-pane { margin-bottom: 5px; }
+.job_optwrap .job_optitem { font-size: 13px; margin: 0px 5px; }
+.no_mbtm { margin-bottom: 0 !important; }
+.no_pbtm { padding-bottom: 0 !important; }
+/* Search Result */			
+.refine_search_wrap { position: fixed; top: 0px; right: -280px; bottom: 0; width: 270px; background: #fff; overflow-y: auto; transition: right 0.3s ease; z-index: 10000; }
+.refine_search_wrap.hd { right: 0px; }
+.refine_search_bg { background: #000; position: fixed; left: 0; top: 0; right: 0; bottom: 0; opacity: 0.5; filter: alpha(opacity=50); z-index: 9999; display: none; }
+.jobdes_toppanel .col-md-2 { padding-left: 15px; padding-right: 15px; clear: both; text-align: left; margin-top: 20px; display: block }
+.jobdes_toppanel .date { color: #fff; margin-top: 15px; }
+.job_summary .jd_infowrap { width: 50%; float: left; padding-right: 25px; }
+.job_summary .summary { width: 100% !important; float: none!important; }
+.about_recruiter { padding-bottom: 100px }
+/* Search Result */
+.signup_form { float: none !important; }
+.loginwrap { margin-left: 0; }
+.loginwrap:after { content: none; }
+.signup_head { left: 0; top: 0; width: auto; right: 0; text-align: left; position: relative; margin-top: 0; margin-bottom: 10px; }
+.navbar-header { margin-right: 0; }
+.navbar-brand { width: 28px; height: 30px; padding: 5px 0px; }
+.navbar-nav>li>a { padding: 12px 10px; letter-spacing: 0; }
+.nav_big .navbar-nav>li>.dropdown-menu { width: 600px; }
+.navbar-header { float: none; }
+.navbar-toggle { display: block; }
+.navbar-collapse.collapse { display: none!important; }
+.navbar-nav { float: none!important; }
+.navbar-nav>li { float: none; }
+.navbar-collapse.collapse.in { display: block !important; }
+#headernav_wrap { height: 52px; }
+.navbar-collapse.collapse { padding: 0; display: block !important; position: fixed !important; left: -250px; top: 0; min-height: 100%; overflow: hidden; overflow-y: auto; width: 250px; background: #fff; transition: left 0.3s ease-in-out; }
+.mob_pagefader { display: none; left: 0; right: 0; top: 0; position: fixed; bottom: 0; width: 100%; height: 100%; z-index: 990; background: transparent; background: rgba(0,0,0, 0.8); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#80000000, endColorstr=#80000000);
+zoom: 1; }
+.navbar-collapse.collapse.in { left: 0; }
+.mob_pagefader.in { display: block; }
+#mnuser_navwrap { float: none !important; }
+.nav_big .navbar-nav#mnuser_nav { margin: 0; border-left: 0; }
+#mnuser_nav>li { float: left !important; width: 20%; }
+#mn_main_nav>li:hover>a { background: none; color: #565656; }
+#mn_main_nav>li>a:hover { color: #ff7800; background: #f6f6f6; }
+.nav_big .navbar-nav>li:hover .dropdown-menu, .nav_big .navbar-nav>li:focus .children { opacity: 1; -webkit-transform: none; transform: none; -webkit-transition: none; transition: none; }
+.counter_txt { margin-top: -26px; line-height: 26px; height: 26px; min-width: 26px; right: 5px; font-size: 12px; }
+.navbar-nav { margin: 0; }
+#mn_main_nav>li>.dropdown-menu { transform: none; opacity: 1; position: fixed; left: -280px; top: 0; bottom: 0; transition: left 0.3s ease; background: #f5f5f5; display: block; width: 250px; margin: 0; padding: 0; overflow: hidden; overflow-y: auto; }
+#mn_main_nav>li>.dropdown-menu.in { left: 0; }
+#mn_main_nav>li { position: relative; }
+#mnuser_nav>li>a.mn_notification { padding: 30px 20px; }
+.navbar-nav>li>a:before { content: none !important; }
+.open_subnav { position: relative; cursor: pointer; padding: 12px 10px; font-size: 13px; font-weight: 400; color: #565656; letter-spacing: 0; text-transform: uppercase; line-height: 20px; }
+.open_subnav:before { content: ''; width: 12px; height: 12px; border-right: 1px solid #565656; border-top: 1px solid #565656; -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); position: absolute; right: 15px; top: 50%; margin-top: -6px; }
+.open_subnav:hover { background: #f6f6f6; }
+.open_subnav:hover:before { border-right: 1px solid #ff7800; border-top: 1px solid #ff7800; }
+.mnuser_avatar_mob { display: block; background: #52366f; padding: 8px 15px 8px 65px; position: relative; height: 56px; color: #fff !important; font-size: 16px; text-decoration: none !important; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 40px; }
+.mnuser_avatar_mob img { width: 40px; height: 40px; position: Absolute; left: 10px; top: 8px; border-radius: 50%; }
+.dropdown-menu .container-fluid { padding: 0; position: relative; }
+.dropdown-menu .container-fluid .row { margin: 0; }
+.dropdown-menu .container-fluid .row .col-md-6 { padding: 0; }
+.dropdown-menu .container-fluid .mn-navlnk { padding: 13px 15px; border-bottom: 1px #e3e3e3 solid; }
+.dropdown-menu .container-fluid .mn-navlnk:hover { background: #e8e8e8; }
+.dropdown-menu>li>a.mn_mainnavback { font-size: 15px; background: #52366f; color: #fff; padding: 8px 15px 8px 45px; display: block; line-height: 40px; position: relative; }
+.dropdown-menu>li>a.mn_mainnavback:after { content: ''; width: 12px; height: 12px; border-left: 2px solid #fff; border-bottom: 2px solid #fff; -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); position: absolute; left: 10px; top: 50%; margin-top: -6px; }
+.dropdown-menu>li>a.mn_mainnavback:before { content: ''; width: 18px; height: 2px; background: #fff; left: 10px; top: 50%; position: Absolute; margin-top: -1px; }
+#mnuser_signwrap, #mnrec_seek_signwrap { float: none !important; background: #eee; padding: 10px 7px 10px 15px; }
+#mnuser_signwrap .btn_purple, #mnrec_seek_signwrap .btb_purple { padding: 8px 25px; }
+.fixed_footer_button { position: fixed; top: inherit; bottom: 0; left: 0; right: 0; background: #fff; padding: 10px 8px; border-top: 1px #e6e6e6 solid; z-index: 9 }
+.fixed_footer_button .btn-default { width: 48%; display: inline-block !important; float: left; }
+.fixed_footer_button .btn-default:nth-child(2) { float: right; }
+.col-xs-7ths.pdrl { padding: 0; }
+.col-xs-7ths.pdrl .setting_tab { height: auto; padding: 10px 0px; box-shadow: none; border-top: 1px #e6e6e6 solid; }
+.col-xs-7ths.pdrl .setting_tab.active { border: 0; border: 3px #663399 solid; }
+.col-xs-7ths.pdrl .setting_tab.active:after { border-left: solid 3px #663399; border-right: solid 3px #663399; }
+.settab_img { width: 34px; height: 34px; }
+.settab_img.ico1 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -52px -390px; }
+.settab_img.ico2 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -86px -390px; }
+.settab_img.ico3 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -86px -422px; }
+.settab_img.ico4 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -124px -416px; }
+.settab_img.ico5 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -158px -416px; }
+.settab_img.ico6 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -192px -416px; }
+.settab_img.ico7 { background: url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/set_sprite.png) no-repeat -226px -416px; }
+.set_page { padding-top: 0 !important; }
+.settings_header.mrgnbtm30 { margin-bottom: 0 !important; }
+/*.settingtab_cont{padding:30px 15px;}*/
+.pdall { padding: 5px !important; }
+.avatar_selrow { margin-left: 0px; margin-right: 0px; }
+.a_seltxth { font-size: 16px; }
+.a_seltxt { font-size: 13px; }
+.a_selbox .a_selimg { margin: 10px auto; }
+.settings_row.row { margin-right: -15px; margin-left: -15px; clear: both }
+.settingtab_cont { margin: 0px -15px; }
+.settingtab_inner { padding: 20px 15px; }
+#mn_mainwrap, .mn_mainwrap { padding: 20px 0px; }
+.setting_tab.active:after { left: 0; right: 0; }
+.setting_tab.active:after { content: ''; position: Absolute; border-left: 3px #663399 solid; border-right: 3px #663399 solid; left: -3px; right: -3px; height: 21px; bottom: -21px; z-index: 8; background: #fff; }
+.mn-shdcmmn_setting { margin-bottom: 15px; }
+body.pb_sm { padding-bottom: 56px; }
+.mk_hiddenbox .btn { position: static; display: block; width: 90px; }
+.mpv_btmbox { margin: 0 -15px 20px -15px; padding: 10px 15px; }
+.mbr:before { content: none; }
+.mnp_wrapinnr .col-md-6 { margin-bottom: 20px; }
+.tab_wrapper.modified .nav-tabs { position: relative; height: 43px; background: #fff; border-bottom: 1px #e9e9e9 solid; }
+.tab_wrapper.modified_n .nav-tabs li { float: left; }
+.tab_wrapper.modified .nav-tabs>li { position: relative; top: 36px; left: 100%; margin-left: -236px; width: 233px; z-index: 9; float: none !important; display: none; }
+.tab_wrapper.modified .nav-tabs>li>a { background: #3d2853; border-bottom: 1px #4c375e solid; padding: 5px 10px; color: #fff; border-left: 0; }
+.tab_wrapper.modified .nav-tabs>li.active { position: Absolute; left: 0; margin-left: 0; top: 0; width: auto; display: block; }
+.tab_wrapper.modified .nav-tabs>li.active>a { padding: 10px; background: none; border: 0; color: #4e4e4e; font-size: 18px; }
+.n_date { text-align: left !important; padding-top: 8px; }
+.tab-content .tab-pane.pdtb30 { padding: 20px; }
+.list-group.pdtb20 .list-group-item { padding: 10px; }
+.pdall30 { padding: 20px; }
+.mn_tabopt { position: absolute; top: 3px; right: 5px; width: 30px; height: 33px; cursor: pointer; padding: 5px 0px; border: 1px #fff solid; z-index: 5 }
+.mn_tabopt span { background: #252525; position: relative; opacity: 1; transition: opacity 0.6s ease; filter: alpha(opacity=100); height: 5px; width: 5px; border-radius: 50%; display: block; margin: 0 auto; }
+.mn_tabopt span.cross { margin: 4px auto; }
+.mn_tabopt.active { border: #3e2755 1px solid; background: #3e2755; }
+.mn_tabopt.active span { opacity: 0; filter: alpha(opacity=0); border-radius: 0; position: relative; }
+.mn_tabopt.active span.cross { opacity: 1; filter: alpha(opacity=100); width: 60%; background: none; }
+.mn_tabopt span.cross:before, .mn_tabopt span.cross:after { content: ''; background: #fff; height: 2px; width: 100%; position: absolute; transition: all 0.6s ease; left: 0; opacity: 0; }
+.mn_tabopt.active span.cross:before, .mn_tabopt.active span.cross:after { -ms-transform: rotate(0deg); -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); }
+.mn_tabopt.active span.cross:before { -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); opacity: 1; }
+.mn_tabopt.active span.cross:after { -ms-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); opacity: 1; }
+#u_jobs .mn_tabopt { right: 20px; }
+.contact_wrap>.mn_h1 { font-size: 20px; }
+/*analytics*/
+.mei_chartwrap { margin: 0px 5px; border-bottom: 0; }
+.mei_chartwrap .col-md-4 { position: relative; }
+.mei_chartwrap .col-md-4:after { left: 0; top: 0; bottom: inherit; right: 0; border-right: 0; border-top: 1px #c0c0c0 solid; }
+.cc_header { padding: 40px 10px; }
+.cc_header h1 { font-size: 40px; }
+.sidebar_facet { position: fixed; right: -270px; top: 0; bottom: 0; width: 270px; padding: 0px; height: 100%; background: #fff; z-index: 1000; overflow: hidden; overflow-y: auto; padding-left: 5px; padding-right: 5px; }
+.sidebar_facet.in { transition: right 0.3s ease; right: 0; }
+.sidebar_facet .mn-shdcmmn { box-shadow: none; }
+.facet_icon_mob { width: 50px; height: 50px; position: fixed; bottom: 5px; right: 5px; background: #ff7e00 url(http://media.monsterindia.com/seeker_2014/seeker_responsive/images/mn-combi.png) 0px -380px no-repeat; ; box-shadow: 0 0px 5px 0px #999; cursor: pointer; border-radius: 50%; z-index: 989; }
+.find_rech { padding: 0px 0px 0px 10px; text-align: left; margin-bottom: 5px; font-size: 24px; font-weight: 400; }
+.sidebar_facet .mn-shdcmmn { background: #f7f7f7; }
+.sidebar_facet .mn-shdcmmn { margin-bottom: 20px; }
+.wlkn_date { font-size: 14px; }
+.cc_header.cjobs { padding: 30px 20px; }
+.cc_header.msi { padding: 30px 10px; }
+.cc_header.msi.exp_speak { padding: 30px 10px 40px 10px; }
+.cc_header.cjobs h1 { font-size: 30px; }
+.app_conwrapinnr:after, app_conwrapinnr:before { content: none; }
+.cj_jobwrap { border: 0; }
+.app_conmain { padding: 10px 10px 10px 40px; }
+.app_conmain:before { left: 5px; top: 10px; }
+.app_conh { font-size: 18px; }
+.vertical_tabs { min-height: auto; }
+.vertical_tabcont { padding: 20px 10px; }
+.vertical_tabsmenu .vtab_lnk { text-align: left; }
+.msi_logo img { margin: inherit; display: block; max-width: 200px; }
+.msi_stxtsmall { font-size: 18px; }
+#msi_slider .carousel-indicators { bottom: -30px; }
+.exp_speak #msi_slider .carousel-indicators { bottom: -40px; }
+.private_noaccess { margin: 50px auto; padding-top: 50px; padding-bottom: 50px; }
+/*analytics*/
+.default_mja { border: 0px; border-bottom: solid 1px #ddd; }
+.default_mja_action { margin-top: 10px; }
+.default_mja_action .toggle_active { margin-bottom: 0px; margin-left: 5px; }
+.default_mja_action .up_date { margin: 5px; margin-right: 10px; }
+.create_agent { width: 90%; margin: 0 auto; }
+.tending_articles { min-height: 215px; }
+.cs_linktxt_inner { width: 140px!important; }
+.comp_status { padding: 10px; padding-bottom: 0px; text-align: right; border-top: 1px solid #ccc; margin-top: 10px; margin-bottom: 0px; }
+.comp_status .pull-right { position: relative; text-align: left; padding-left: 14px; float: left !important; }
+.compilane_txt { font-size: 13px; text-align: left; padding-top: 0px; line-height: 20px; background-color: #fffdbc; margin-top: 0px; }
+.paDear { padding: 10px; line-height: 20px; }
+.compilane_txt a { color: #ff7836; text-transform: none; font-weight: 500; }
+.comp_status a { font-size: 12px; }
+}
+@media(min-width:500px) {
+.adwrapperinnr { width: 468px; height: 60px; }
+}
+@media (min-width:768px) {
+.job_optwrap, .res_opts { display: block !important; }
+.apply_panel .job_optwrap { display: none !important; }
+.adwrapperinnr { width: 728px; height: 90px; }
+#adwrappermain { padding: 20px; }
+.mobileupload { display: none !important; }
+}
+@media (max-width:769px) {
+.padtb { padding: 0 !important; }
+.padtb .cal_wrap { margin: 0px 2px 0px 2px!important; }
+.edit_headings { font-size: 15px; }
+.form-control { font-size: 14px !important; }
+#hamburgermenu #header .ui-page-theme-a .ui-btn, #hamburgermenu #header .ui-page-theme-a .ui-btn:visited, html .ui-bar-a .ui-btn, #hamburgermenu #header html .ui-bar-a .ui-btn:visited, #hamburgermenu #header html .ui-body-a .ui-btn, #hamburgermenu #header html .ui-body-a .ui-btn:visited, #hamburgermenu #header html body .ui-group-theme-a .ui-btn, #hamburgermenu #header html body .ui-group-theme-a .ui-btn:visited, #hamburgermenu #header html head+body, #hamburgermenu #header html head+body .ui-btn.ui-btn-a { background-color: transparent!important; border: none!important; color: #fff; text-shadow: none!important; }
+.headernav_main_jd .navbar-toggle .icon-bar { background: #FFF!important; }
+.headernav_main_jd .mar_left10 { margin-left: 10px; }
+.headernav_main_jd #update_pfbtn_sm { padding: 0; width: auto; }
+.headernav_main_jd .navbar-brand { width: auto!important; height: 44px; padding: 0px 0px; }
+.headernav_main_jd { background: #000!important; }
+.headernav_main_jd .icon-bar { background: #FFF!important; }
+.headernav_main_jd #update_pfbtn_sm .search_btn { width: 34px; height: 34px; background: url('//media.monsterindia.com/seeker_2014/wap_2015/assets/images/search_white.png') no-repeat!important; }
+.headernav_main_jd .mnstr_jd { background-position: 0 0; width: 29px; height: 27px; float: left; background: url('//media.monsterindia.com/seeker_2014/wap_2015/assets/images/jd.png') no-repeat; cursor: pointer; }
+.headernav_main_jd .mnstr_logo { width: 103px; height: 27px; cursor: pointer; background: url('//media.monsterindia.com/seeker_2014/wap_2015/assets/images/jobs_jd.png') no-repeat; float: left; }
+.headernav_main_jd .mnstr_power { width: 108px; height: 14px; background: url('//media.monsterindia.com/seeker_2014/wap_2015/assets/images/powered_by_monster.png') no-repeat; float: left; }
+}
+@media (max-width:767px) {
+	#newedit .placeholder_cmmn input:focus ~ label, #newedit .placeholder_cmmn input.filled ~ label, #newedit .placeholder_cmmn .error:focus ~ label, #newedit #newedit .select_label span, #newedit .multiselect_label em { font-size: 11px; color: #FF7800; }
+	.editnew_head {
+  
+    font-size: 19px;
+  
+}
+	#newedit .salaryinfo .spanfont{ font-size: 11px; color: #999999; }
+.mar5_mobile { padding: 0px 5px; }
+.clear_mobile { clear: both; display: block; }
+.mobile_text_right { text-align: right; margin-right: 10px; 
+    margin-top: 23px!important; }
+.mar-mobile-table { margin-top: 10px; }
+.mn-shdcmmn { margin-bottom: 20px; }
+/* mobile upload resume */
+
+.small_text { color: #9e9e9e; font-size: 12px !important; text-align: center; margin-top: 10px; }
+.skip { color: #999 !important; display: block; font-size: 12px !important; margin: 10px 0; text-align: center; width: 100%; }
+.mobileh1 { font-size: 15px; }
+.resumemain:hover { text-decoration: none !important }
+.resumemain { display: block; min-height: 40px; padding: 0.8em 0.5em; position: relative; border-bottom: 1px solid #d7d7e4; }
+.sugg_que .resumemain { border-bottom: 1px solid #755e8c; }
+.uploadresume_images { margin-left: 50px; min-height: 50px; }
+.sugg_que .uploadresume_images { color: #FFF; }
+.uploadresume_images_in { padding-left: 20px; padding-top: 10px; font-weight: 400 !important; font-size: 15px; }
+.walkin_box { height: auto; position: relative; overflow: hidden }
+.walkin_box .btn-brdr { position: absolute; z-index: 2; top: 0; left: 0; width: 100%; height: 100%; border: 0; text-indent: -999px }
+.walkin_box .btn-brdr.blnk:hover, .walkin_box .btn-brdr.blnk:focus { border: 0; background: transparent; }
+.divider_login, .nodisplay_forgot { display: none }
+.double_dropdown .brdr_right { border: none; }
+.jobtype { float: left }
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 { padding-left: 5px; padding-right: 5px; }
+.col-md-9 .row, .col-md-6 .row { margin: 0; }
+.col-md-9 .row .col-md-8, .col-md-9 .row .col-md-4 { padding-left: 0; padding-right: 0; }
+.row.row_bg .col-md-4 { padding: 5px 10px; }
+.col_equal { margin-bottom: 0; padding-bottom: 0; }
+.ng-isolate-scope .tab-content .tab-pane { margin-bottom: 20px; }
+.jobwrap .col-sm-3 { position: static; }
+/*.jobwrap{padding:10px 5px;}*/
+.jobwrap.haslogo { padding-top: 50px; }
+.jobwrap.has_rp_wrap_nj { padding-top: 80px !important; }
+.jobwrap.haslogo .jlogo { position: absolute; top: 10px; left: 17px; }
+.joblnk { margin-right: 30px; }
+.jobwrap.haslogo .joblnk { margin-right: 0; }
+.tab_loadmore { margin-bottom: 20px; }
+.job_optwrap { position: absolute; right: 10px; top: 42px; margin: 0; z-index: 99; background: #3e2755; display: none; padding: 0; border: none; }
+.rec_item .job_optwrap { position: static; border-top: #e6e6e6 1px solid; background: #f7f8fc; display: block; padding: 5px; }
+.job_optwrap .job_optitem { display: block; font-size: 13px; border-bottom: 1px #4c3760 solid; text-align: left; margin: 0; padding: 8px 10px; color: #fff!important; }
+.rec_item .job_optwrap .job_optitem { display: inline-block; border: 0; text-align: left; margin: 0px 2px; font-size: 13px; padding: 5px 5px 5px 23px; }
+.job_optwrap .job_optitem:before { content: none; }
+.rec_item .job_optwrap .job_optitem:before { content: ''; }
+.job_optwrap .job_optitem:hover { border-radius: 0; color: #fff !important; background: #331e47; }
+.job_optwrap .job_optitem:hover { border-radius: 4px; color: #a09fa4 !important; background: #eee; }
+.job_optmob { position: absolute; top: 10px; right: 10px; width: 30px; height: 33px; cursor: pointer; padding: 5px 0px; z-index: 5 }
+.resume_mainwrap.active .job_optmob { border: 1px #ecf7d4 solid; }
+.job_optmob span { background: #252525; position: relative; opacity: 1; transition: opacity 0.6s ease; filter: alpha(opacity=100); height: 5px; width: 5px; border-radius: 50%; display: block; margin: 0 auto; }
+.job_optmob span.cross, .mn_tabopt span.cross { margin: 4px auto; }
+.job_optmob.active, .resume_mainwrap.active .job_optmob.active, .mn_tabopt.active { border: #3e2755 1px solid; background: #3e2755; }
+.job_optmob.active span, .mn_tabopt.active span { opacity: 0; filter: alpha(opacity=0); border-radius: 0; position: relative; }
+.job_optmob.active span.cross, .mn_tabopt.active span.cross { opacity: 1; filter: alpha(opacity=100); width: 60%; background: none; }
+.job_optmob span.cross:before, .job_optmob span.cross:after, .mn_tabopt span.cross:before, .mn_tabopt span.cross:after { content: ''; background: #fff; height: 2px; width: 100%; position: absolute; transition: all 0.6s ease; left: 0; opacity: 0; }
+.job_optmob.active span.cross:before, .job_optmob.active span.cross:after, .mn_tabopt.active span.cross:before, .mn_tabopt.active span.cross:after { -ms-transform: rotate(0deg); -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); }
+.job_optmob.active span.cross:before, .mn_tabopt.active span.cross:before { -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); opacity: 1; }
+.job_optmob.active span.cross:after, .mn_tabopt.active span.cross:after { -ms-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); opacity: 1; }
+.rop_morebtns.text-right { text-align: center !important; padding: 10px; }
+.rop_morebtns a { margin: 0px 10px; padding: 5px 10px; border: 1px #b7b7b7 solid; }
+.rop_morebtns a:before { content: none; }
+.resume_h span { position: relative; top: 0; left: 0; }
+.resume_h .r_txt { margin-left: 0; }
+.resume_h.rsh_sm .r_txt { margin-left: 0; }
+#u_resume { position: relative; }
+.mn_rgtbtn .a_rgtbtn { display: block; margin-top: 10px; padding: 10px; font-size: 15px; }
+.mn_chkwrap { margin-top: 5px; }
+.diasbilitywrap { text-align: left !important; }
+.edit_form { padding: 15px 5px; }
+#disability_opts { padding: 15px 5px; margin: 10px -6px; }
+/* Search Result */
+.diasbilitywrap { text-align: left !important; }
+.you_searched .col-xs-9 { width: 65% }
+.edit_form { padding: 5px 5px; }
+.you_searched .sq_txt { font-size: 15px; }
+#disability_opts { padding: 15px 5px; margin: 10px -6px; }
+.jobdes_toppanel .col-md-2 { padding: 0px 10px; clear: both; text-align: left; margin-top: 20px; display: block }
+.jobdes_toppanel .col-md-2 .date { font-size: 25px; text-align: left; display: block }
+.about_recruiter { padding-bottom: 100px }
+.apply_panel .job_optwrap { position: absolute; right: 10px; top: -123px; margin: 0; z-index: 99; border: none; display: none; }
+.apply_panel .job_optwrap .job_optitem { display: block; margin: 2px 5px; font-size: 13px; }
+.apply_panel .job_optmob { position: absolute; top: 15px; right: 10px; width: 30px; height: 33px; cursor: pointer; padding: 5px 0px; border: 0px #fff solid; }
+.apply_panel .job_optmob span { background: #fff; position: relative; opacity: 1; transition: opacity 0.6s ease; filter: alpha(opacity=100); height: 5px; width: 5px; border-radius: 50%; display: block; margin: 0 auto; }
+.apply_panel .job_optmob span.cross { margin: 4px auto; }
+.apply_panel .job_optmob.active { border: #e6e6e6 1px solid; background: #f7f8fc; }
+.apply_panel .job_optmob.active span { opacity: 0; filter: alpha(opacity=0); border-radius: 0; position: relative; }
+.apply_panel .job_optmob.active span.cross { opacity: 1; filter: alpha(opacity=100); width: 60%; background: none; }
+.apply_panel .job_optmob span.cross:before, .apply_panel .job_optmob span.cross:after { content: ''; background: #252525; height: 2px; width: 100%; position: absolute; transition: all 0.6s ease; left: 0; opacity: 0; }
+.apply_panel .job_optmob.active span.cross:before, .apply_panel .job_optmob.active span.cross:after { -ms-transform: rotate(0deg); -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); }
+.apply_panel .job_optmob.active span.cross:before { -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); opacity: 1; }
+.apply_panel .job_optmob.active span.cross:after { -ms-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); opacity: 1; }
+/* Search Result */
+.signup_head { font-size: 24px; }
+.loginwrap { padding: 20px; }
+.edit_form.padd_all { padding: 15px; }
+.signup_social a { padding: 6px }
+.signup_social a:before { position: relative; display: block; left: 0; top: 0; }
+.resume_mainwrap .mn_bibtn { right: 43px; top: 16px; }
+.res_opts { position: absolute; right: 10px; top: 43px; z-index: 9; background: #3d2853; display: none; }
+.res_opts .col-sm-4, .res_opts .col-sm-8 { padding: 0; }
+.res_opts .res_oh { padding: 10px; border-bottom: 1px #4c3760 solid; }
+.res_opts .res_oh .res_ohh { color: #dddce0; top: 10px; left: 10px; }
+.rop_ico_block { display: block; float: none !important; border: 0 !important; }
+.rop_ico_block .rop_ico { display: block; float: none !important; border-right: 0 !important; border-bottom: 1px #4c3760 solid; padding: 0px 10px; line-height: 36px; text-align: right; }
+.rop_lnkwrap { padding: 0; }
+.rop_lnkwrap .rop_lnk { color: #424242; text-decoration: none; display: block; border-right: 0 !important; border-bottom: 1px #4c3760 solid; padding: 0px 10px; line-height: 36px; text-align: right; }
+.rop_ico_block .rop_ico:hover, .rop_lnkwrap a.rop_lnk:hover { background: #331e47; color: #fff; }
+.rop_ico_block .rop_ico:before { content: none; text-align: right; }
+.rop_ico_block .rop_stbox { color: #dddce0; }
+.nav-tabs>li { display: block; float: none; margin-bottom: 0; }
+.nav-tabs>li>a { background: #ddd; border-left: 4px #bfbfbf solid; border-bottom: 1px #ededed solid; margin: 0; }
+.nav-tabs>li>a:hover { border-left: 4px #cdcdcd solid; border-top: none; }
+.nav-tabs>li.active>a { border-left: 4px #fd8d29 solid; border-top: 0 !important; }
+.tab-content .tab-pane.padd20 { padding: 10px; }
+.row-equal { overflow: auto; }
+.row_level .col-sm-6 { padding: 0 1px; }
+.pdtb { padding-top: 10px; padding-bottom: 0px; }
+.mrgnbtm30 { margin-bottom: 20px !important; }
+.rec_iteminnr { padding: 10px; }
+.settings_row.row { margin-right: -15px; margin-left: -15px; clear: both; }
+.link_scico:before { left: 2px; }
+.tab-content .tab-pane.pdtb30 { padding: 10px 0px; }
+.list-group.pdtb20 .list-group-item { padding: 15px 10px; border: 0; border-top: 1px solid #ddd; margin-bottom: 0; }
+.list-group.pdtb20 .list-group-item:first-child { border-top: 0; }
+.tab-content .tab-pane { box-shadow: none; }
+.job_applydate { margin: 10px -5px -10px -5px; }
+.pdall30, .pdall15 { padding: 10px; }
+.mn_tabopt { right: 3px; }
+.cn_inputwrap { padding-right: 0px; }
+.cn_inputwrap .btn { width: 100%; position: static; margin-top: 10px; }
+.cn_importpanel .signup_social a { margin: 5px; display: block; padding-left: 35px; }
+.cn_importpanel .signup_social a:before { position: absolute; left: 5px; top: 3px; }
+.cmp_block.cmp_big .col-xs-4 { padding-left: 0; max-width: 140px; }
+.mnjb_wrap { padding-top: 40px; padding-right: 0; }
+.mn_phead.ico7 .btn-brdr { padding: 5px; font-size: 12px; }
+.mpp_recomandwrap { padding: 20px; padding-bottom: 60px; font-size: 20px; }
+.remnd_btn { left: 20px; right: 20px; width: auto; top: inherit; bottom: 15px; font-size: 16px; }
+.job_by_section { padding: 0px 10px; }
+.jobwrap .btn-brdr { display: block; float: none !important; }
+.sugg_que .sq_frmwrap { padding-right: 0; padding-bottom: 55px; }
+.sugg_que .btnwrap { right: inherit; bottom: 0; top: inherit; left: 0; }
+#u_jobs .mn_tabopt { right: 3px; }
+/*analytics*/
+.mei_chart { height: 160px; }
+.insight_tabitem { width: 25%; paddning: 0; font-size: 13px; padding: 12px 0px; }
+.tabthree .insight_tabitem { width: 33.333333%; }
+.insight_tabitem span.bld { display: block; }
+.insight_tabitem:nth-child(4) { border-left: 0; }
+.insight_tabitem:nth-child(1) { border-right: 0; }
+.emi_tab.tab-content .tab-pane.pdtb30 { padding-top: 0; }
+.mei_chartwrap .col { padding: 10px 0px; }
+.mei_chartwrap .col-md-4 { position: relative; padding: 20px 10px; }
+#mei_graph { height: 160px; }
+.res_preview .pull-right { float: none !important; margin-top: 20px; }
+.cc_header { padding: 20px 10px; }
+.cc_header h1 { font-size: 24px; }
+.cc_article.mrr { padding-right: 0; }
+.cc_article.mrr .lnk_pdf { position: static; margin-top: 10px; border: 1px #cdcdcd solid; padding-left: 45px; line-height: 40px; border-radius: 2px; width: 120px; }
+.cc_article.mrr .lnk_pdf:before { position: absolute; left: 5px; border: 0; margin-bottom: 0; }
+.cont_box { margin: 20px 5px }
+.cont_box:before { content: none; }
+.cont_box .col-sm-6:first-child { border-bottom: 1px #cdcdcd solid }
+.col-md-9 .row.mrgnbtm30, .col-md-6 .row.mrgnbtm30 { margin-bottom: 20px; }
+.fnd_recbtn { float: none !important; }
+.fnd_recbtn .btn-brdr { display: block; }
+.cc_header.cjobs { padding: 10px; position: relative; background-position: center top; }
+.cc_header.cjobs:before { position: absolute; content: ''; left: 0; right: 0; top: 0; bottom: 0; background: #fff; opacity: 0.3; filter: alpha(opacity=30); }
+.cc_header.cjobs h1 { font-size: 25px; margin-bottom: 10px; position: relative; }
+.cc_header.msi { padding: 10px; }
+.cc_header.msi.exp_speak { padding: 10px 10px 30px 10px; }
+.cc_header.cjobs .btn { position: relative; }
+.no_rmargn { margin: 0; }
+.cj_row:after, .cj_row:before { content: none; }
+.cj_row .col-sm-4:nth-child(2) { border-top: 1px #ccc solid; border-bottom: 1px #ccc solid; padding-top: 10px; padding-bottom: 10px; }
+.msi_logo img { max-width: 180px; }
+.msi_sh { font-size: 20px; }
+.msi_stxtsmall { font-size: 15px; }
+#msi_slider .carousel-indicators { bottom: -10px; right: 0px; }
+.exp_speak #msi_slider .carousel-indicators { bottom: -30px; }
+.sc_ico.msi_share { text-align: left; }
+.msi_btnwrap { padding-top: 10px; padding-bottom: 10px; }
+.vertical_tabcont.active { border-left: 0; }
+.tab-pane.nopadd .vertical_tabcont { padding: 15px 0; }
+.sq_frmwrap .row .col { margin-bottom: 10px; }
+.sq_frmwrap .row .col:last-child { margin-bottom: 0; }
+.userinfo_block .u_name { margin-top: 20px; }
+.private_noaccess { margin: 20px; padding: 130px 20px 20px 20px; text-align: center; font-size: 26px; width: auto; }
+.private_noaccess:before { top: 10px; left: 50%; margin-left: -42px; margin-top: 0; }
+/*analytics*/
+.c_agent .col-xs-12 { margin-bottom: 10px; }
+.cc_header_new h1 { font-weight: 400; color: #fff; font-size: 40px; text-transform: uppercase; margin: 0; margin-bottom: 10px; }
+.cc_header_new .search_article { width: 80%; margin: 0 auto; }
+.cc_header_new .search_article .search { border-radius: 5px; }
+.cc_header_new .search_article .search_btn { border-radius: 5px; border: solid 1px #d0d0d0; margin-top: 10px; }
+.card .content_inner { font-size: 13px; color: #8d8b8b; height: 105px; overflow: hidden; margin-bottom: 10px; }
+#u_odt .mn_chkwrap { margin-left: 0px !important; }
+}
+@media (max-width:560px) {
+/* Search Result */		
+.you_searched .col-xs-9 { width: 100% }
+.you_searched .sq_txt { font-size: 15px; }
+.you_searched .btnwrap { position: relative; width: 128px; }
+.you_searched .btnwrap a { font-size: 12px; padding: 5px; margin-top: 10px; }
+.result_head .count { font-size: 17px; }
+.result_head .btn-group .btn { padding: 5px 7px; font-size: 12px; }
+.jobdes_toppanel a { font-size: 12px; float: left; padding: 7px 9px; }
+.jobdes_toppanel .jd_logo { width: 70%; display: block; }
+.jobdes_toppanel .jd_logo img { width: 50%; }
+.job_summary .jd_infoh { font-size: 14px; color: #424242; margin-bottom: 2px; }
+.job_summary .jd_infotxt { font-size: 14px; font-weight: 400; position: relative; color: #706f78; margin-bottom: 15px; }
+.job_description .desc { color: #706f78; font-size: 13px; line-height: 21px; }
+.job_description .desc strong { font-weight: 400; }
+.job_summary .jd_infowrap { width: 100%; float: none; }
+.about_recruiter { padding-bottom: 150px }
+.about_recruiter .recruiter_info .data .follower { float: none; }
+.about_recruiter .recruiter_info .data .date { float: none; margin-top: 7px; }
+/* Search Result */
+.t28 { font-size: 21px; letter-spacing: .2px }
+.t20 { font-size: 15px; }
+.vcodewrap { padding-right: 0; }
+.vcodewrap .save_btn { position: relative; right: inherit; margin-top: 10px; }
+.signup_head { font-size: 22px; }
+.loginwrap { padding: 20px 10px; }
+.edit_form.padd_all { padding: 10px; }
+.recbtnwrap { display: block; float: none !important; margin-top: 10px; }
+.rectxtwrap { border-top: 1px #dedede solid; display: block; float: none !important; font-size: 12px; margin-top: 5px; }
+.link_sc { width: 90px; }
+.link_sc.mrgn { margin-left: 5px; margin-right: 5px; }
+.pend_tabwrap .btn { font-size: 16px; padding: 5px 10px; }
+/*analytics*/
+.open>.dropdown-menu { right: 0; }
+.open>.dropdown-menu>li>a { margin: 5px; padding: 10px }
+.find_rowfrst .find_txt { font-size: 18px; }
+.msi_btnwrap div { text-align: center; display: block; }
+.msi_btnwrap .msi_btnor { padding: 10px 0px; }
+.sc_ico.msi_share { text-align: center; }
+.visible-560 { display: block; }
+.app_jobh.applyall.ondash_board .btn-brdr { top: 4px; }
+.app_jobh.applyall.ondash_board { padding: 0px 120px 20px 0px; }
+/*analytics*/
+.card .content { height: auto; margin-bottom: 15px; }
+.tips_content .col-md-8 li { line-height: normal; }
+.tab_wrapper.modified_n .nav-tabs li a { font-size: 14px; }
+.tab_wrapper.modified_n .nav-tabs > li.active > a, .tab_wrapper.modified_n .nav-tabs > li.active > a:hover, .tab_wrapper.modified_n .nav-tabs > li.active > a:focus { border-left: none; border-top: 4px solid #fd8d29 !important; }
+.tab_wrapper.modified_n .nav-tabs > li > a { border-left: none; border-top: 4px solid #bfbfbf; border-bottom: none !important; }
+.endorsebox_myapp { float: left }
+}
+@media (max-width:480px) {
+#rate_job textarea { resize: none; width: 100%; }
+.sugg_que .inputbox { height: 39px; }
+.sugg_que .btnwrap .btn { padding: 4px 12px; font-size: 17px; }
+.rop_morebtns.text-right { padding: 10px 5px; }
+.rop_morebtns a { margin: 0px 5px; padding: 5px; border: 1px #b7b7b7 solid; }
+.resume_h, .mnp_wrapinnr { padding: 20px 10px; }
+.mn_phead { font-size: 18px; padding: 20px 40px }
+.mn_phead:before { left: 0px; }
+.rbtn_edit { right: 10px; }
+.form-group.withsubmit { padding-right: 0; }
+.btn_save { margin-top: 10px; position: static; width: 100%; }
+.noticewrap .n_wrap { padding-right: 0px;}
+.noticewrap .checkbox.custom { position: relative; right: 0px; top: 0; }
+.or { display: block; margin: 5px 0px; }
+.formatsupport { padding: 5px; }
+.makehiddenopwrap .col-xs-6 { float: none !important; width: 100%; }
+.pend_tabwrap .btn { font-size: 15px; padding: 5px 10px; }
+#u_odt .mn_chkwrap { margin-right: 6px !important; }
+}
+@media screen and (max-width: 391px) {
+.internationaljobs { display: flex; flex-direction: column; }
+.country { order : 1; }
+.function { order : 2; }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 1928500704f49acef2c3f0859f2e1971da50f04e

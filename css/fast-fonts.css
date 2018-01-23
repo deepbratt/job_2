@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Proxima N W01 Reg";
+  src: url("/sharedcontent/css/cwjobs/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?#iefix");
+  src: url("/sharedcontent/css/cwjobs/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?#iefix") format("eot"), url("/sharedcontent/css/cwjobs/fonts/64017d81-9430-4cba-8219-8f5cc28b923e.woff2") format("woff2"), url("/sharedcontent/css/cwjobs/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff") format("woff"), url("/sharedcontent/css/cwjobs/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf") format("truetype"), url("/sharedcontent/css/cwjobs/fonts/ab9cd062-380f-4b53-b1a7-c0bec7402235.svg#ab9cd062-380f-4b53-b1a7-c0bec7402235") format("svg");
+}
+@font-face {
+  font-family: "Proxima N W01 Black";
+  src: url("/sharedcontent/css/cwjobs/fonts/9b05cd3b-19d8-496a-816b-8de46cf24af1.eot?#iefix");
+  src: url("/sharedcontent/css/cwjobs/fonts/9b05cd3b-19d8-496a-816b-8de46cf24af1.eot?#iefix") format("eot"), url("/sharedcontent/css/cwjobs/fonts/a086d1e1-d71a-4248-bc5b-6a91bbda0756.woff2") format("woff2"), url("/sharedcontent/css/cwjobs/fonts/43106d4c-07a9-48c0-bdeb-d82f359c85f5.woff") format("woff"), url("/sharedcontent/css/cwjobs/fonts/7783372a-b74a-4eb3-902f-ab18b106eb46.ttf") format("truetype"), url("/sharedcontent/css/cwjobs/fonts/22e79766-6290-47c1-b1af-93665675dd48.svg#22e79766-6290-47c1-b1af-93665675dd48") format("svg");
+}
